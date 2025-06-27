@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "43f54bb4-5f4b-4591-a0ad-0970e3ad9544")
+	(paper "USLedger")
+	(title_block
+		(title "HEDGE2 Avionics")
+		(date "2025-06-27")
+		(rev "V0.8")
+		(company "University of Virginia")
+		(comment 1 "Department of Mechanical and Aerospace Engineering")
+	)
+	(lib_symbols)
+)
