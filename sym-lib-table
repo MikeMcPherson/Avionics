@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HEDGE2")(type "KiCad")(uri "${KIPRJMOD}/HEDGE2.kicad_sym")(options "")(descr ""))
+  (lib (name "TCAN1051V")(type "KiCad")(uri "D:/Users/kq9p/OneDrive - University of Virginia/HEDGE2/CAD/TCAN1051VDRBRQ1/2025-07-02_23-06-12.kicad_sym")(options "")(descr ""))
+)
