@@ -1058,7 +1058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "258e5712-abaa-4c2f-a0df-7f17c4ddfecc")
-		(property "Reference" "C21"
+		(property "Reference" "C17"
 			(at 176.53 106.6864 90)
 			(effects
 				(font
@@ -1074,7 +1074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 182.88 106.68 0)
 			(effects
 				(font
@@ -1120,19 +1120,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "42ce23fb-6d10-47d2-b755-73b78ac0ac46")
+			(uuid "a1b3051b-82aa-4881-8918-4c86021e667c")
 		)
 		(pin "1"
-			(uuid "cd94b807-5cc6-4b9a-8493-8e4a2e486031")
+			(uuid "f691fa04-366e-4f0d-8e02-4f8fa9bef132")
 		)
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "C21")
+					(reference "C17")
 					(unit 1)
 				)
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "C20")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -1148,7 +1148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42f1b412-5a71-49b4-bb2d-333da7aee73f")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR091"
 			(at 231.14 152.4 0)
 			(effects
 				(font
@@ -1193,16 +1193,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "01d95f9b-f197-4158-810a-e6aefd6abcb2")
+			(uuid "a0a12727-da43-49cb-aa1e-497a6c5492fc")
 		)
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "#PWR071")
+					(reference "#PWR091")
 					(unit 1)
 				)
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "#PWR011")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -1282,52 +1282,52 @@
 			)
 		)
 		(pin "12"
-			(uuid "4583ecee-6c79-48d9-8854-b07589afbf6b")
+			(uuid "3da58886-79f8-4663-8aae-b627c3ea1d28")
 		)
 		(pin "8"
-			(uuid "516ed685-f2b1-4988-a13f-82e55cf75677")
+			(uuid "66142279-9a4e-4027-852d-b3d142c086f6")
 		)
 		(pin "2"
-			(uuid "61996704-3157-4cba-a74c-355c1d617aed")
+			(uuid "d90f88e2-0482-4b44-afde-7018a9affdb8")
 		)
 		(pin "5"
-			(uuid "e56e6223-7d1b-4dbf-ac90-97cc3c73483d")
+			(uuid "91deb320-b162-47b4-b3c5-dfdee1783552")
 		)
 		(pin "6"
-			(uuid "47f55ee1-877f-478e-8e76-80cc6c1b425c")
+			(uuid "7d22b542-825d-4efe-a666-5c04f08a28dc")
 		)
 		(pin "9"
-			(uuid "2f8f0507-dc8c-4c0d-9812-bcc85a1cbd3e")
+			(uuid "dcf280da-1016-45f4-b7d1-74947bad7e54")
 		)
 		(pin "11"
-			(uuid "6a36077a-93bb-4348-ae28-45ee43e36a56")
+			(uuid "2147dc25-7e82-428b-b2e9-55992d261a76")
 		)
 		(pin "1"
-			(uuid "51dbb72a-99ff-4730-80c8-ed7bd47b3cde")
+			(uuid "ed0f1242-67c0-41d0-97df-5a58ec8805b1")
 		)
 		(pin "16"
-			(uuid "a7da8dfd-b038-47b6-a00b-ab79a1d7c9b1")
+			(uuid "236a5f79-4b11-4281-b20a-6d107c06d1d1")
 		)
 		(pin "4"
-			(uuid "30d8d717-26f6-46ac-bf99-132f94a34faa")
+			(uuid "d2737121-2f3e-484e-9c71-d94ec31caa68")
 		)
 		(pin "13"
-			(uuid "88e4d26c-473d-45a5-b8df-c5f37885272f")
+			(uuid "2cfa549b-98bd-44ff-b0e7-1c5cd64c1a0b")
 		)
 		(pin "7"
-			(uuid "0d1df674-c05c-4746-8cbf-4cd46e0d1837")
+			(uuid "6eaf5b6c-8744-46ff-b9d9-e14df12d8344")
 		)
 		(pin "10"
-			(uuid "3534e87a-5fde-40fd-9b82-4789e532171b")
+			(uuid "d7f75dad-d7a0-42d1-976c-f541c68b319f")
 		)
 		(pin "14"
-			(uuid "b470f2c3-bd99-4b5c-92a0-e7c44083d3b0")
+			(uuid "537c2798-bc9f-49c1-8cf8-1127585d296f")
 		)
 		(pin "3"
-			(uuid "8c0d3766-ab51-4080-b84c-0fa1f27a6b9c")
+			(uuid "c2c2b19b-0408-4e89-a232-4f1ebd209e4d")
 		)
 		(pin "15"
-			(uuid "59e4a1c6-27d9-458d-815d-85eb50760654")
+			(uuid "f139d1ea-a5e0-4efd-8f44-f736e055f248")
 		)
 		(instances
 			(project "Avionics"
@@ -1336,7 +1336,7 @@
 					(unit 1)
 				)
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "U9")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -1352,7 +1352,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "996e5773-68d8-4eac-95e1-b17a52a7ed30")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR090"
 			(at 182.88 93.98 0)
 			(effects
 				(font
@@ -1398,16 +1398,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "efcb6a2e-b27b-47f6-88a4-bdd6b049111b")
+			(uuid "a5ecd269-ad32-4253-aa23-ac44b2feb2f0")
 		)
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "#PWR070")
+					(reference "#PWR090")
 					(unit 1)
 				)
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "#PWR010")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
