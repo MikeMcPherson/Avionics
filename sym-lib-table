@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "HEDGE2")(type "KiCad")(uri "${KIPRJMOD}/HEDGE2.kicad_sym")(options "")(descr ""))
   (lib (name "TCAN1051V")(type "KiCad")(uri "D:/Users/kq9p/OneDrive - University of Virginia/HEDGE2/CAD/TCAN1051VDRBRQ1/2025-07-02_23-06-12.kicad_sym")(options "")(descr ""))
+  (lib (name "INA260AI")(type "KiCad")(uri "D:/Users/kq9p/OneDrive - Goozbazi LLC/Documents/KiCad/CADfiles/ul_INA260AIPWR/KiCADv6/2024-11-27_17-29-01.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS543320")(type "KiCad")(uri "D:/Users/kq9p/OneDrive - University of Virginia/HEDGE2/CAD/TPS543320RPYR/2025-07-03_03-10-10.kicad_sym")(options "")(descr ""))
+  (lib (name "XGL5050-182MEC")(type "KiCad")(uri "D:/Users/kq9p/OneDrive - University of Virginia/HEDGE2/CAD/XGL5050_182MEC/2025-07-03_03-25-15.kicad_sym")(options "")(descr ""))
 )
