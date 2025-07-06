@@ -63,8 +63,8 @@
 			)
 		)
 		(symbol "NOVATEL OEM719_1_1"
-			(text "NOVATEL OEM719\nGNSS RECEIVER"
-				(at 0 15.748 0)
+			(text "NOVATEL GNSS RECEIVER"
+				(at 0 14.224 0)
 				(effects
 					(font
 						(size 1.27 1.27)

@@ -347,7 +347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole-VST104:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 312.42 223.52 0)
 			(effects
 				(font
@@ -414,7 +414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole-VST104:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 308.61 217.17 0)
 			(effects
 				(font
@@ -481,7 +481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole-VST104:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 326.39 223.52 0)
 			(effects
 				(font
@@ -530,7 +530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b5b6d32-a9ba-4ef2-8428-8b23a1ed1db8")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR039"
 			(at 320.04 234.95 0)
 			(effects
 				(font
@@ -580,7 +580,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/617751c8-9e63-43a2-807c-be0203e52cd6"
-					(reference "#PWR068")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -614,7 +614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole-VST104:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 			(at 321.31 217.17 0)
 			(effects
 				(font
