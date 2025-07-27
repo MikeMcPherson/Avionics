@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -48,8 +48,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_ff57ffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffffffff_ffffffff_ffffd575_ff57ffaf",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",

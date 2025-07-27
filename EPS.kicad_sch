@@ -3750,7 +3750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "031d5093-78f3-4adb-a17a-108c801ffc90")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR056"
 			(at 24.13 139.7 0)
 			(effects
 				(font
@@ -3801,7 +3801,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR051")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3818,7 +3818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09a26986-d89e-4088-9897-539fca3dc783")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR060"
 			(at 74.93 55.88 0)
 			(effects
 				(font
@@ -3869,7 +3869,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR055")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -4056,7 +4056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33bd3916-137f-43a3-bb9b-e84fb6b98ea0")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR061"
 			(at 74.93 58.42 0)
 			(effects
 				(font
@@ -4107,7 +4107,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR056")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -4124,7 +4124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "378ced16-57e1-4273-8761-06cb97d3fdfe")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR063"
 			(at 85.09 142.24 0)
 			(effects
 				(font
@@ -4175,7 +4175,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR058")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -4192,7 +4192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c168808-573b-4a61-a32e-f0c5ba765001")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR062"
 			(at 85.09 139.7 0)
 			(effects
 				(font
@@ -4243,7 +4243,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR057")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -4600,7 +4600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "861cc3f7-f518-4528-aa57-e5249f0c119a")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR057"
 			(at 24.13 142.24 0)
 			(effects
 				(font
@@ -4651,7 +4651,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR052")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4668,7 +4668,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b327a33c-a40f-45f5-bfba-03b7c2e8f75f")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR058"
 			(at 34.29 55.88 0)
 			(effects
 				(font
@@ -4719,7 +4719,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR053")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -4736,7 +4736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6b6c9b2-6100-41f8-98d1-0352882506a8")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR059"
 			(at 34.29 58.42 0)
 			(effects
 				(font
@@ -4787,7 +4787,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR054")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -4803,7 +4803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d19e911b-7053-4f2e-aac2-1302c3cf5f1f")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR064"
 			(at 321.31 233.68 0)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 		(instances
 			(project "Avionics"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
-					(reference "#PWR059")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
