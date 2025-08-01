@@ -3948,6 +3948,15 @@
 				(hide yes)
 			)
 		)
+		(property "SNAPEDA_PN" ""
+			(at 322.58 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b20dfb05-2100-46aa-8611-cc892a313f79")
 		)
@@ -4025,6 +4034,15 @@
 			)
 		)
 		(property "Field8" ""
+			(at 309.88 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
 			(at 309.88 215.9 0)
 			(effects
 				(font
@@ -4416,6 +4434,15 @@
 			)
 		)
 		(property "Field8" ""
+			(at 54.61 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
 			(at 54.61 144.78 0)
 			(effects
 				(font
@@ -4932,6 +4959,15 @@
 				(hide yes)
 			)
 		)
+		(property "SNAPEDA_PN" ""
+			(at 327.66 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72b0f6a5-a2ee-4f39-bf2c-785fd2a1425b")
 		)
@@ -5110,6 +5146,15 @@
 			)
 		)
 		(property "Field8" ""
+			(at 54.61 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
 			(at 54.61 60.96 0)
 			(effects
 				(font
@@ -5348,6 +5393,15 @@
 			)
 		)
 		(property "Field8" ""
+			(at 313.69 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" ""
 			(at 313.69 222.25 0)
 			(effects
 				(font

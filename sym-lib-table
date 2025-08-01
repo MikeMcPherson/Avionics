@@ -9,4 +9,6 @@
   (lib (name "54-00175-audio-jack")(type "KiCad")(uri "${KICAD_USER_CADFILES}/54_00175-audio-jack/54-00175.kicad_sym")(options "")(descr ""))
   (lib (name "TCAN1046AVDYYRQ1")(type "KiCad")(uri "${KICAD_USER_CADFILES}/TCAN1046AVDYYRQ1/2025-07-27_00-11-27.kicad_sym")(options "")(descr ""))
   (lib (name "SQT-110-01-L-D")(type "KiCad")(uri "${KICAD_USER_CADFILES}/SQT-110-01-L-D/SQT-110-01-L-D.kicad_sym")(options "")(descr ""))
+  (lib (name "Novatel")(type "KiCad")(uri "${KICAD_USER_CADFILES}/Novatel.kicad_sym")(options "")(descr ""))
+  (lib (name "SMA-J-P-X-RA-TH1")(type "KiCad")(uri "${KICAD_USER_CADFILES}/SMA_J_P_H_RA_TH1/SMA-J-P-X-RA-TH1.kicad_sym")(options "")(descr ""))
 )
