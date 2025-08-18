@@ -1101,7 +1101,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" "399-C0603C104M5RACTUCT-ND"
+		(property "DigiKey Part Number" "720-GA0805Y104JXABT31GCT-ND"
 			(at 182.88 106.68 0)
 			(effects
 				(font
@@ -1262,7 +1262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA260AIPWR"
+		(property "Datasheet" ""
 			(at 212.09 129.54 0)
 			(effects
 				(font

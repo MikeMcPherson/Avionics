@@ -9100,6 +9100,10 @@
 		(uuid "3d2e8866-09d5-4a44-9bb0-7c9decc72c8f")
 	)
 	(no_connect
+		(at 38.1 59.69)
+		(uuid "3e2ebac7-c508-45c7-9bb1-8138337055dd")
+	)
+	(no_connect
 		(at 209.55 153.67)
 		(uuid "3e4c27c4-a557-49ec-b21c-e1fd37035a10")
 	)
@@ -9232,6 +9236,10 @@
 		(uuid "60b65ef3-89a7-4509-807d-c57cff7a61d8")
 	)
 	(no_connect
+		(at 63.5 118.11)
+		(uuid "62925ea7-d1b0-42f4-b301-c5270df813bb")
+	)
+	(no_connect
 		(at 63.5 163.83)
 		(uuid "62b463d1-f1a2-4769-94db-36dc62d3ae1f")
 	)
@@ -9254,10 +9262,6 @@
 	(no_connect
 		(at 270.51 158.75)
 		(uuid "69780aaa-fc0e-4b2c-8918-8a6d9e91a015")
-	)
-	(no_connect
-		(at 63.5 54.61)
-		(uuid "69811f60-6348-40c8-9503-dfe80d83df81")
 	)
 	(no_connect
 		(at 270.51 110.49)
@@ -9416,6 +9420,10 @@
 		(uuid "994be47b-7c49-4a9d-abfc-de4b58f61a58")
 	)
 	(no_connect
+		(at 38.1 57.15)
+		(uuid "9aa5ab9c-8785-45b8-8c04-d20b64a6b377")
+	)
+	(no_connect
 		(at 63.5 146.05)
 		(uuid "9aec8526-e0e7-48c0-a5e8-8d554b203c26")
 	)
@@ -9438,6 +9446,10 @@
 	(no_connect
 		(at 330.2 36.83)
 		(uuid "9e54e40c-53ee-4d75-a981-81ee4bfee819")
+	)
+	(no_connect
+		(at 38.1 118.11)
+		(uuid "9f8f78ae-03f5-4bba-9d57-9a94e5f8428e")
 	)
 	(no_connect
 		(at 38.1 123.19)
@@ -9512,6 +9524,10 @@
 		(uuid "bde3daab-f45d-45fd-a614-96ce8e6181fc")
 	)
 	(no_connect
+		(at 63.5 59.69)
+		(uuid "be85d7c5-b811-4aba-871b-d50940ec2ac5")
+	)
+	(no_connect
 		(at 38.1 34.29)
 		(uuid "bf126d84-0d3f-4360-949e-0e7bd0be9360")
 	)
@@ -9526,10 +9542,6 @@
 	(no_connect
 		(at 38.1 125.73)
 		(uuid "c003364f-f9f6-4d53-a234-5353e869b965")
-	)
-	(no_connect
-		(at 38.1 54.61)
-		(uuid "c1c88645-10e3-4bf1-a1fe-8e1180dc2fc4")
 	)
 	(no_connect
 		(at 38.1 90.17)
@@ -9656,6 +9668,10 @@
 		(uuid "e0c206ce-50ed-4738-bd27-7714fb708c1f")
 	)
 	(no_connect
+		(at 63.5 57.15)
+		(uuid "e3ea46a3-df92-4dbf-a30f-7ba5037601bd")
+	)
+	(no_connect
 		(at 391.16 105.41)
 		(uuid "e5ec1cf4-162c-4bc3-87b9-0e3c0faa63dd")
 	)
@@ -9771,6 +9787,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.195 133.35) (xy 38.1 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "032ce978-134f-41a3-8ae8-d65f2c518b99")
+	)
+	(wire
+		(pts
 			(xy 125.73 156.21) (xy 138.43 156.21)
 		)
 		(stroke
@@ -9838,6 +9864,16 @@
 			(type default)
 		)
 		(uuid "0ab103bd-8fbf-4036-8938-8faa393df5d9")
+	)
+	(wire
+		(pts
+			(xy 36.195 135.89) (xy 38.1 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ab29bde-9974-4f01-b0af-2c41f96f39dc")
 	)
 	(wire
 		(pts
@@ -10138,16 +10174,6 @@
 			(type default)
 		)
 		(uuid "2b66965d-e99d-41e6-939f-577fe7cdcf32")
-	)
-	(wire
-		(pts
-			(xy 26.67 133.35) (xy 38.1 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ba1c9e3-1233-4859-a127-c9d502a20853")
 	)
 	(wire
 		(pts
@@ -10531,7 +10557,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 135.89) (xy 74.93 135.89)
+			(xy 63.5 135.89) (xy 64.135 135.89)
 		)
 		(stroke
 			(width 0)
@@ -10921,16 +10947,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 118.11) (xy 38.1 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66f040fd-3e71-4930-94e3-59e036aa34db")
-	)
-	(wire
-		(pts
 			(xy 207.01 82.55) (xy 209.55 82.55)
 		)
 		(stroke
@@ -11228,16 +11244,6 @@
 			(type solid)
 		)
 		(uuid "7be33f25-d061-4d33-8699-d7450c1bd83a")
-	)
-	(wire
-		(pts
-			(xy 64.77 59.69) (xy 63.5 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c3667ab-f560-4274-aa5b-5bb3b60ec628")
 	)
 	(wire
 		(pts
@@ -11558,16 +11564,6 @@
 			(type default)
 		)
 		(uuid "9cfc546f-8778-4cdd-93d8-280c12d9cdb5")
-	)
-	(wire
-		(pts
-			(xy 26.67 135.89) (xy 38.1 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d204444-fac5-4803-9409-13d6a20447dd")
 	)
 	(wire
 		(pts
@@ -12181,6 +12177,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 54.61) (xy 38.1 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce3ad23c-514d-4e8c-bffc-4c2b05fdc7fb")
+	)
+	(wire
+		(pts
 			(xy 209.55 243.84) (xy 212.09 243.84)
 		)
 		(stroke
@@ -12371,23 +12377,13 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 118.11) (xy 64.77 118.11)
+			(xy 63.5 54.61) (xy 72.39 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db82bf99-7b83-4cfc-9635-686c1aabd524")
-	)
-	(wire
-		(pts
-			(xy 36.83 59.69) (xy 38.1 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcb3df38-cddb-4abd-9782-52485ea8c42e")
+		(uuid "dbfb8378-2afa-470b-ac8b-6ff426cbdbe5")
 	)
 	(wire
 		(pts
@@ -12531,7 +12527,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 133.35) (xy 74.93 133.35)
+			(xy 63.5 133.35) (xy 64.135 133.35)
 		)
 		(stroke
 			(width 0)
@@ -14180,12 +14176,12 @@
 		(uuid "5735795c-d0b6-4f6f-8f68-2cda9500194c")
 	)
 	(label "DS_A"
-		(at 64.77 113.03 0)
+		(at 36.83 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "60455b28-41e7-45fb-89b6-6dd8be907be8")
 	)
@@ -14208,16 +14204,6 @@
 			(justify left bottom)
 		)
 		(uuid "632c0d05-a7be-4b95-89ef-af656c9fd551")
-	)
-	(label "CHARGE"
-		(at 64.77 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "667e7c9e-8433-4c80-9d69-5bf9a8574ca7")
 	)
 	(label "GNSS_NRESET_IN"
 		(at 207.01 80.01 180)
@@ -14260,7 +14246,7 @@
 		(uuid "72000cdf-c227-4b24-8685-95a1bdd77f95")
 	)
 	(label "DS_C"
-		(at 64.77 107.95 0)
+		(at 64.77 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14430,12 +14416,12 @@
 		(uuid "9623ec51-8dc1-40ca-83a3-3ea9025bdb7f")
 	)
 	(label "RBF_B"
-		(at 36.83 110.49 180)
+		(at 64.77 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "9694a317-70fa-47d0-b08b-e54b9f202058")
 	)
@@ -14670,7 +14656,7 @@
 		(uuid "c36f4fc5-db46-4221-873c-a102f19c0c0d")
 	)
 	(label "RBF_A"
-		(at 36.83 113.03 180)
+		(at 36.83 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14698,6 +14684,16 @@
 			(justify right bottom)
 		)
 		(uuid "d0df0641-34c4-4b61-a1df-e2f65be781b3")
+	)
+	(label "CHARGE"
+		(at 64.77 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d154ebde-9e64-463c-8982-d17451d8c5cd")
 	)
 	(label "ENA_PWR_4"
 		(at 36.83 31.75 180)
@@ -14729,16 +14725,6 @@
 		)
 		(uuid "d3ddb471-ec4e-45af-af47-2a49ad058407")
 	)
-	(label "CHARGE"
-		(at 36.83 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d5b79fb4-e47f-4c06-9476-29acff586f5b")
-	)
 	(label "CAN_B_H"
 		(at 170.18 40.64 0)
 		(effects
@@ -14750,7 +14736,7 @@
 		(uuid "d5bdca48-4a42-4edf-a2b9-de25c521b4ac")
 	)
 	(label "DS_B"
-		(at 64.77 110.49 0)
+		(at 64.77 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14869,6 +14855,16 @@
 		)
 		(uuid "f1336cb2-fc6c-40bc-ad94-7baa819ac5e4")
 	)
+	(label "CHARGE"
+		(at 36.83 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f2ea3ad1-4f78-45da-b155-ce3eeafc5a5a")
+	)
 	(label "SDA0"
 		(at 35.56 189.23 180)
 		(effects
@@ -14880,7 +14876,7 @@
 		(uuid "f3d8d40c-9f61-4ef8-a839-d7d17adff4a8")
 	)
 	(label "RBF_C"
-		(at 36.83 107.95 180)
+		(at 36.83 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15279,6 +15275,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 220.98 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "H11615CT-ND"
 			(at 220.98 95.25 0)
 			(effects
 				(font
@@ -15898,74 +15903,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 36.83 57.15 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03cb9679-b8cd-4047-9b15-baa5bb5b93e3")
-		(property "Reference" "#PWR07"
-			(at 30.48 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 33.02 57.1501 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 36.83 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 36.83 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 36.83 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "73915ea8-2782-492d-aa91-ecb8868db7c4")
-		)
-		(instances
-			(project "Avionics"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 198.12 199.39 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16169,6 +16106,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "720-GA0805Y104JXABT31GCT-ND"
+			(at 91.44 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d2e98ea3-a00e-4baa-9b49-dfcd3b4d057c")
 		)
@@ -16259,6 +16205,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 151.13 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "160-1427-1-ND"
 			(at 151.13 118.11 90)
 			(effects
 				(font
@@ -16417,7 +16372,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 74.93 135.89 90)
+		(at 64.135 135.89 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16427,7 +16382,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b74e7fa-493c-4011-ad12-c2171a8300e9")
 		(property "Reference" "#PWR013"
-			(at 81.28 135.89 0)
+			(at 70.485 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16436,7 +16391,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 135.8901 90)
+			(at 67.945 135.8901 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16445,7 +16400,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 135.89 0)
+			(at 64.135 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16454,7 +16409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 135.89 0)
+			(at 64.135 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16463,7 +16418,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 135.89 0)
+			(at 64.135 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16756,7 +16711,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4bb16e6b-f7ab-45df-8a03-274ac758d6b4")
 		(property "Reference" "U1"
 			(at 158.75 186.436 0)
@@ -16976,6 +16931,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "541-2.10KCCT-ND"
+			(at 289.56 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c6e3798-1f4d-4800-8ab3-b769fe74c9f7")
 		)
@@ -17078,7 +17042,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 26.67 135.89 270)
+		(at 36.195 135.89 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17088,7 +17052,7 @@
 		(fields_autoplaced yes)
 		(uuid "5b0e8507-e140-4ec1-ad92-bdd248192f97")
 		(property "Reference" "#PWR02"
-			(at 20.32 135.89 0)
+			(at 29.845 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17097,7 +17061,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 22.86 135.8901 90)
+			(at 32.385 135.8901 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17106,7 +17070,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 135.89 0)
+			(at 36.195 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17115,7 +17079,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 135.89 0)
+			(at 36.195 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17124,7 +17088,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 135.89 0)
+			(at 36.195 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17484,6 +17448,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "SAM1245-10-ND"
+			(at 151.13 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "9ed7d0a7-f6ef-4d67-9e00-92a2a01de315")
 		)
@@ -17715,6 +17688,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
+			(at 102.87 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dbedf3e2-22ec-4c5e-8358-0c466e549a44")
 		)
@@ -17836,6 +17818,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 242.57 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "H11615CT-ND"
 			(at 242.57 90.17 0)
 			(effects
 				(font
@@ -18522,7 +18513,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 74.93 133.35 90)
+		(at 64.135 133.35 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18532,7 +18523,7 @@
 		(fields_autoplaced yes)
 		(uuid "820cf99c-c9af-4497-8566-aedfe91199b8")
 		(property "Reference" "#PWR012"
-			(at 81.28 133.35 0)
+			(at 70.485 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18541,7 +18532,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 133.3501 90)
+			(at 67.945 133.3501 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18550,7 +18541,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 133.35 0)
+			(at 64.135 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18559,7 +18550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 133.35 0)
+			(at 64.135 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18568,7 +18559,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 133.35 0)
+			(at 64.135 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18930,6 +18921,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "720-GA0805Y104JXABT31GCT-ND"
+			(at 91.44 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b4308d2f-417a-4e0d-89a9-eb0ed334e8ab")
 		)
@@ -19010,6 +19010,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 289.56 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "541-2.10KCCT-ND"
 			(at 289.56 143.51 0)
 			(effects
 				(font
@@ -19285,7 +19294,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" "P4.70KHCT-ND"
+		(property "DigiKey Part Number" "RMCF0805JT47K0CT-ND"
 			(at 402.59 207.01 0)
 			(effects
 				(font
@@ -19596,6 +19605,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "P39ACT-ND"
+			(at 143.51 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b67887dc-f4ba-43d7-90ec-9f68056451e1")
 		)
@@ -19677,6 +19695,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 102.87 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
 			(at 102.87 48.26 0)
 			(effects
 				(font
@@ -19970,6 +19997,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "311-45.3CRCT-ND"
+			(at 143.51 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a9fe6b9-d77d-452e-a309-55cd66e668e3")
 		)
@@ -20060,6 +20096,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 151.13 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "160-1179-1-ND"
 			(at 151.13 99.06 90)
 			(effects
 				(font
@@ -20355,6 +20400,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 170.18 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "3628-82_MMBX-S50-0-1/111_NMCT-ND"
 			(at 170.18 177.8 0)
 			(effects
 				(font
@@ -20732,74 +20786,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 64.77 57.15 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d6e26e5a-1bf8-48c4-864d-d32a355a7153")
-		(property "Reference" "#PWR010"
-			(at 71.12 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 68.58 57.1501 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a0295a17-7927-49c4-84ba-84694cc53859")
-		)
-		(instances
-			(project "Avionics"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 102.87 35.56 0)
 		(mirror y)
@@ -20865,6 +20851,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 102.87 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
 			(at 102.87 35.56 0)
 			(effects
 				(font
@@ -21023,7 +21018,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 36.83 59.69 270)
+		(at 29.21 54.61 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21033,7 +21028,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0d0ee2a-c0ea-4266-b32e-8775f9fae8a0")
 		(property "Reference" "#PWR08"
-			(at 30.48 59.69 0)
+			(at 22.86 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21042,7 +21037,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 33.02 59.6901 90)
+			(at 25.4 54.6101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21051,7 +21046,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 36.83 59.69 0)
+			(at 29.21 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21060,7 +21055,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 59.69 0)
+			(at 29.21 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21069,7 +21064,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 36.83 59.69 0)
+			(at 29.21 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21126,7 +21121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" ""
 			(at 69.85 -56.49 0)
 			(effects
 				(font
@@ -21626,7 +21621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" ""
 			(at 69.85 -132.69 0)
 			(effects
 				(font
@@ -22099,6 +22094,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
+			(at 102.87 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8e73214c-3646-4031-b842-21e1a1d0235e")
 		)
@@ -22116,7 +22120,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 26.67 133.35 270)
+		(at 36.195 133.35 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22126,7 +22130,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3ad2900-027e-4f90-8f0b-066626537cf6")
 		(property "Reference" "#PWR01"
-			(at 20.32 133.35 0)
+			(at 29.845 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22135,7 +22139,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 22.86 133.3501 90)
+			(at 32.385 133.3501 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22144,7 +22148,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 133.35 0)
+			(at 36.195 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22153,7 +22157,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 133.35 0)
+			(at 36.195 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22162,7 +22166,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 133.35 0)
+			(at 36.195 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22301,7 +22305,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" "P4.70KHCT-ND"
+		(property "DigiKey Part Number" "RMCF0805JT47K0CT-ND"
 			(at 402.59 196.85 0)
 			(effects
 				(font
@@ -22345,7 +22349,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 59.69 90)
+		(at 72.39 54.61 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22355,7 +22359,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb9ae699-4f99-4481-a2d8-ebe05777ccf9")
 		(property "Reference" "#PWR011"
-			(at 71.12 59.69 0)
+			(at 78.74 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22364,7 +22368,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 68.58 59.6901 90)
+			(at 76.2 54.6101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22373,7 +22377,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 59.69 0)
+			(at 72.39 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22382,7 +22386,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 59.69 0)
+			(at 72.39 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22391,7 +22395,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 59.69 0)
+			(at 72.39 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -4727,7 +4727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" ""
 			(at 77.47 -48.87 0)
 			(effects
 				(font
@@ -5075,7 +5075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" ""
 			(at 77.47 -132.69 0)
 			(effects
 				(font

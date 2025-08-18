@@ -2179,6 +2179,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "399-C0805X104K5RAC7210CT-ND"
+			(at 96.52 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c1ec11b-d379-4cc8-ac23-32897e7acbac")
 		)
@@ -2259,6 +2268,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 184.15 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "RMCF0805FT11K8CT-ND"
 			(at 184.15 148.59 0)
 			(effects
 				(font
@@ -2487,6 +2505,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "RMCF0805FT6K04CT-ND"
+			(at 157.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "72349d64-213e-404f-89be-914e7d07ea4a")
 		)
@@ -2640,6 +2667,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "311-11.3KCRCT-ND"
+			(at 173.99 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8697c9a3-3937-44bd-a297-73166b0ca15c")
 		)
@@ -2720,6 +2756,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 290.83 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "490-9961-1-ND"
 			(at 290.83 127 0)
 			(effects
 				(font
@@ -2816,6 +2861,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "399-C0805C104K5RACTUCT-ND"
+			(at 242.57 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d55227c6-197d-4be1-845c-1e72d56fbfe5")
 		)
@@ -2896,6 +2950,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 157.48 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "311-16.9KCRCT-ND"
 			(at 157.48 130.81 0)
 			(effects
 				(font
@@ -2992,6 +3055,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "1276-CL21B225KPFVPNECT-ND"
+			(at 189.23 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ba4cc02-8248-4579-a951-8d44ad355cb2")
 		)
@@ -3080,6 +3152,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "399-C0805C104K5RACTUCT-ND"
+			(at 173.99 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43b73246-d23e-4d30-844c-a217755d50c7")
 		)
@@ -3158,6 +3239,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 265.43 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "311-28.0KCRCT-ND"
 			(at 265.43 146.05 90)
 			(effects
 				(font
@@ -3254,6 +3344,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "TNP4.99KABCT-ND"
+			(at 262.89 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7cf68901-3db3-4bca-8f0f-42aa92a3e6eb")
 		)
@@ -3305,7 +3404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "TPS543320RPYR"
+		(property "Datasheet" ""
 			(at 195.58 116.84 0)
 			(effects
 				(font
@@ -3334,6 +3433,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 195.58 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "296-TPS543320RPYRCT-ND"
 			(at 195.58 116.84 0)
 			(effects
 				(font
@@ -3531,6 +3639,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "490-GRM21BZ71E106KE15KCT-ND"
+			(at 113.03 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43b73246-d23e-4d30-844c-a217755d50c8")
 		)
@@ -3617,6 +3734,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "490-14776-1-ND"
+			(at 265.43 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7618bfac-2d23-47b3-a31e-a0f651e6ccfd")
 		)
@@ -3668,7 +3794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "XGL5050-182MEC"
+		(property "Datasheet" ""
 			(at 281.94 124.46 0)
 			(effects
 				(font
@@ -3697,6 +3823,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 281.94 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "2457-XGL5050-182MEC-ND"
 			(at 281.94 124.46 0)
 			(effects
 				(font
@@ -3784,6 +3919,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 153.67 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "399-C0805C104K5RACTUCT-ND"
 			(at 153.67 119.38 0)
 			(effects
 				(font
@@ -3880,6 +4024,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "490-GRM21BZ71E106KE15KCT-ND"
+			(at 133.35 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43b73246-d23e-4d30-844c-a217755d50ca")
 		)
@@ -3968,6 +4121,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "541-10.0KCCT-ND"
+			(at 195.58 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae1d3069-c315-42c2-990d-9ea1b42200f2")
 		)
@@ -4048,6 +4210,15 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
+			(at 311.15 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" "490-9961-1-ND"
 			(at 311.15 127 0)
 			(effects
 				(font
