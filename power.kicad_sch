@@ -5,7 +5,7 @@
 	(uuid "899eedde-204d-4518-8c0d-08f9e5c6d25c")
 	(paper "USLedger")
 	(title_block
-		(title "HEDGE2 Avionics")
+		(title "HEDGE2 OBC")
 		(date "2025-06-27")
 		(rev "V0.8")
 		(company "University of Virginia")

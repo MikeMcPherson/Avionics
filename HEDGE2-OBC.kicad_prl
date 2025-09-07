@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Avionics.kicad_prl",
+    "filename": "HEDGE2-OBC.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

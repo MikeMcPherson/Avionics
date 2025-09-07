@@ -6,7 +6,7 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
-Avionics-backups/*
+HEDGE2-OBC-backups/*
 *~
 _autosave-*
 *.tmp

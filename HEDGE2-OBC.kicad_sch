@@ -5,7 +5,7 @@
 	(uuid "a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9")
 	(paper "USLedger")
 	(title_block
-		(title "HEDGE2 Avionics")
+		(title "HEDGE2 OBC")
 		(date "2025-06-27")
 		(rev "V0.8")
 		(company "University of Virginia")
@@ -14971,7 +14971,7 @@
 			(uuid "dbe6edc1-ee1c-41ad-b94e-6a468b80b874")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR043")
 					(unit 1)
@@ -15035,7 +15035,7 @@
 			(uuid "20fac508-78eb-4aa5-add1-1566151feb66")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR042")
 					(unit 1)
@@ -15099,7 +15099,7 @@
 			(uuid "9ae7e107-47c3-4f43-acc6-d14899796c06")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR035")
 					(unit 1)
@@ -15163,7 +15163,7 @@
 			(uuid "32f708e0-df94-44e7-a6ae-cda54a0cd338")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR038")
 					(unit 1)
@@ -15893,7 +15893,7 @@
 			(uuid "198a2a45-a86c-4371-8a75-c6e4c84fad3d")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "Module1")
 					(unit 2)
@@ -16026,7 +16026,7 @@
 			(uuid "9274a3a0-6500-4a9b-b0b7-4e7d8ee52ab1")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR030")
 					(unit 1)
@@ -16122,7 +16122,7 @@
 			(uuid "b2923b2f-bca2-4136-866a-cbae44aa2ee8")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "C2")
 					(unit 1)
@@ -16296,7 +16296,7 @@
 			(uuid "e53cc8ec-9bad-43ae-ad37-a22b76b2d5eb")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR017")
 					(unit 1)
@@ -16430,7 +16430,7 @@
 			(uuid "59a2575e-c794-421c-8577-cb010ea0aa4c")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR013")
 					(unit 1)
@@ -16497,7 +16497,7 @@
 			(uuid "da13a9a6-fe6d-4e33-8eee-8a81c3e8c2a5")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR046")
 					(unit 1)
@@ -16563,7 +16563,7 @@
 			(uuid "af09b307-3c9f-401a-aa59-6a9d709380d0")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR024")
 					(unit 1)
@@ -16630,7 +16630,7 @@
 			(uuid "96147635-852e-44f4-b753-5a5ef93ad44a")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR036")
 					(unit 1)
@@ -17032,7 +17032,7 @@
 			(uuid "6fddd6a7-5ebb-4da9-bc85-d9308e952441")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "MH1")
 					(unit 1)
@@ -17100,7 +17100,7 @@
 			(uuid "59a2575e-c794-421c-8577-cb010ea0aa4d")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR02")
 					(unit 1)
@@ -17167,7 +17167,7 @@
 			(uuid "9c7846c1-65d1-414f-9b56-3a23fbd782c2")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR025")
 					(unit 1)
@@ -17234,7 +17234,7 @@
 			(uuid "09f6dad4-e48d-41c2-8bf9-fdb9be78d8e1")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR037")
 					(unit 1)
@@ -17301,7 +17301,7 @@
 			(uuid "42774a44-0556-4ff8-ab67-5a121979827e")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR039")
 					(unit 1)
@@ -17367,7 +17367,7 @@
 			(uuid "f3bf7bf8-8192-4e2a-9808-089c0986088e")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR06")
 					(unit 1)
@@ -17704,7 +17704,7 @@
 			(uuid "7ffe3b1d-b225-4322-b78c-98945a7c8ab6")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R1")
 					(unit 1)
@@ -18436,7 +18436,7 @@
 			(uuid "a1b28347-8609-4986-bd7e-b27342e92b79")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "Module1")
 					(unit 1)
@@ -18503,7 +18503,7 @@
 			(uuid "a43622ff-257b-414f-ba6f-c652e0e589c6")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR015")
 					(unit 1)
@@ -18571,7 +18571,7 @@
 			(uuid "59a2575e-c794-421c-8577-cb010ea0aa4e")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR012")
 					(unit 1)
@@ -18638,7 +18638,7 @@
 			(uuid "75592b01-21dc-4f79-bd88-87522c47d6fa")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR014")
 					(unit 1)
@@ -18937,7 +18937,7 @@
 			(uuid "3467872a-5117-4081-9e70-0c37761509e3")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "C1")
 					(unit 1)
@@ -19233,7 +19233,7 @@
 			(uuid "4108262f-04d0-4646-8dfb-dc546d890f5a")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR028")
 					(unit 1)
@@ -19328,7 +19328,7 @@
 			(uuid "8f21c819-aa3f-4ab9-850d-4b4bc0647df1")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R10")
 					(unit 1)
@@ -19621,7 +19621,7 @@
 			(uuid "45bb074d-6c51-4cfa-9cfe-f5bf7c3b43b6")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R5")
 					(unit 1)
@@ -19719,7 +19719,7 @@
 			(uuid "9a8dd561-8858-4fd9-b933-19bf4dd17d9e")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R3")
 					(unit 1)
@@ -19786,7 +19786,7 @@
 			(uuid "8e313631-73ef-4348-a1c8-4f6b0dfdbe6c")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR019")
 					(unit 1)
@@ -19919,7 +19919,7 @@
 			(uuid "775acd5e-c3fe-4dd9-9057-7a109b136ac5")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR016")
 					(unit 1)
@@ -20120,7 +20120,7 @@
 			(uuid "faa87427-2254-411b-b06f-2bf2b66c5aac")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "D1")
 					(unit 1)
@@ -20187,7 +20187,7 @@
 			(uuid "27b30197-e2eb-460d-a96b-1d4c7d3409cc")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR018")
 					(unit 1)
@@ -20253,7 +20253,7 @@
 			(uuid "8ec5e572-8c6b-4f4c-98bf-534d9c897afe")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR044")
 					(unit 1)
@@ -20338,7 +20338,7 @@
 			(uuid "5222b7af-1b62-47a9-8bdb-e5e64451ab15")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "MH3")
 					(unit 1)
@@ -20558,7 +20558,7 @@
 			(uuid "f563a204-83fd-4ba9-afda-eecbe49918e6")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR027")
 					(unit 1)
@@ -20625,7 +20625,7 @@
 			(uuid "d981d214-0bdd-479c-9967-6896f12a279b")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR05")
 					(unit 1)
@@ -20692,7 +20692,7 @@
 			(uuid "7e5f7370-c8b8-4579-950d-1c358365107d")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR026")
 					(unit 1)
@@ -20777,7 +20777,7 @@
 			(uuid "e8cd23eb-57e2-468f-89e6-8c144c110922")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "MH4")
 					(unit 1)
@@ -20875,7 +20875,7 @@
 			(uuid "c64bf7a7-29f9-4868-95d6-28396cc29f25")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R2")
 					(unit 1)
@@ -21008,7 +21008,7 @@
 			(uuid "cdeb2455-f245-4745-a556-8c4e0385138d")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR045")
 					(unit 1)
@@ -21076,7 +21076,7 @@
 			(uuid "b2ad723d-2493-4e41-9e2c-01e893ee2fa0")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR08")
 					(unit 1)
@@ -21424,7 +21424,7 @@
 			(uuid "18d479d1-8f45-45b7-804a-11d83c26a85c")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "H2OBC1")
 					(unit 1)
@@ -21575,7 +21575,7 @@
 			(uuid "5caabc83-0714-45d1-b90b-1d4effbd88e8")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "MH2")
 					(unit 1)
@@ -21924,7 +21924,7 @@
 			(uuid "d2add6d3-731c-4c20-a92d-e2ee062ca85f")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "H1OBC1")
 					(unit 1)
@@ -22110,7 +22110,7 @@
 			(uuid "16feb0d0-1354-408f-bbcd-7475310a2519")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R4")
 					(unit 1)
@@ -22178,7 +22178,7 @@
 			(uuid "59a2575e-c794-421c-8577-cb010ea0aa4f")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR01")
 					(unit 1)
@@ -22244,7 +22244,7 @@
 			(uuid "f38ecf9f-0693-4ab4-b80c-b75d22d25d21")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR078")
 					(unit 1)
@@ -22339,7 +22339,7 @@
 			(uuid "f1413705-5fc3-4f22-9316-c9f83815529d")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R9")
 					(unit 1)
@@ -22407,7 +22407,7 @@
 			(uuid "9436e84c-8d62-4e60-b15c-274563b927ea")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR011")
 					(unit 1)
@@ -22473,7 +22473,7 @@
 			(uuid "b6d9589c-a72f-4267-a7c7-a4e843a4d04f")
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR023")
 					(unit 1)
@@ -22589,7 +22589,7 @@
 			)
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(page "7")
 				)
@@ -22704,7 +22704,7 @@
 			)
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(page "11")
 				)
@@ -22870,7 +22870,7 @@
 			)
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(page "9")
 				)
@@ -22935,7 +22935,7 @@
 			)
 		)
 		(instances
-			(project "Avionics"
+			(project "HEDGE2-OBC"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(page "13")
 				)
