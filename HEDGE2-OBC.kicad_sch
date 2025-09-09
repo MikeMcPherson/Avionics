@@ -5,9 +5,9 @@
 	(uuid "a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9")
 	(paper "USLedger")
 	(title_block
-		(title "HEDGE2 OBC")
-		(date "2025-06-27")
-		(rev "V0.8")
+		(title "HEDGE-2 OBC")
+		(date "2025-09-08")
+		(rev "V1.0")
 		(company "University of Virginia")
 		(comment 1 "Department of Mechanical and Aerospace Engineering")
 	)
@@ -8437,7 +8437,7 @@
 	)
 	(text "PWR LED"
 		(exclude_from_sim no)
-		(at 154.94 117.348 0)
+		(at 364.49 221.488 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8458,7 +8458,7 @@
 	)
 	(text "0x41"
 		(exclude_from_sim no)
-		(at 43.434 195.834 0)
+		(at 112.649 32.639 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8478,7 +8478,7 @@
 	)
 	(text "0x40"
 		(exclude_from_sim no)
-		(at 43.18 222.504 0)
+		(at 112.395 59.309 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8498,7 +8498,7 @@
 	)
 	(text "ACTIVITY LED"
 		(exclude_from_sim no)
-		(at 154.94 98.044 0)
+		(at 364.49 202.184 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8518,13 +8518,13 @@
 		(uuid "f0590cc1-f2f0-437f-8831-6f6cff2bef48")
 	)
 	(junction
-		(at 102.87 52.07)
+		(at 104.14 103.505)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "012ef928-99e1-49e2-8d48-862d211fcade")
 	)
 	(junction
-		(at 156.845 223.52)
+		(at 58.42 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "096ae346-24fc-4578-a5ad-f4251a176589")
@@ -8650,7 +8650,7 @@
 		(uuid "57c1e362-fe9b-4832-957e-3f829866aada")
 	)
 	(junction
-		(at 102.87 31.75)
+		(at 104.14 83.185)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57c90da6-4c58-4a93-b1b8-0257cc2ea1be")
@@ -8662,7 +8662,7 @@
 		(uuid "5c0eb09d-5593-4aed-9da2-782947b16839")
 	)
 	(junction
-		(at 35.56 210.82)
+		(at 104.775 47.625)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e4a3734-aa77-496a-ba07-3d8a97a48650")
@@ -8674,13 +8674,13 @@
 		(uuid "692d7622-3666-46a7-ba98-6b029dc8aa54")
 	)
 	(junction
-		(at 172.72 177.8)
+		(at 74.295 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6dcc43fe-2120-4e71-a05f-2478dfb2dd0e")
 	)
 	(junction
-		(at 179.07 177.8)
+		(at 80.645 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "717050b8-7f9d-4cef-84a6-ddd6074f79a0")
@@ -8698,7 +8698,7 @@
 		(uuid "78b7dc76-017f-43d7-9f52-33ec68698e97")
 	)
 	(junction
-		(at 30.48 186.69)
+		(at 99.695 23.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7be4cff4-6f05-4d2a-a715-6ecc7ce6763c")
@@ -8776,7 +8776,7 @@
 		(uuid "b7e5c17a-f740-40a3-8e44-7aaf833f3179")
 	)
 	(junction
-		(at 35.56 186.69)
+		(at 104.775 23.495)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc29b0bd-3eb9-48de-b6a5-0df24c8f37bb")
@@ -8812,7 +8812,7 @@
 		(uuid "c7d40e00-f14b-4e4e-8f70-726a20e63c8b")
 	)
 	(junction
-		(at 34.29 223.52)
+		(at 103.505 60.325)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8413154-2280-447a-bf25-115085b228c1")
@@ -8824,13 +8824,13 @@
 		(uuid "cda74105-6dc1-4a17-99f9-c2d960a307fa")
 	)
 	(junction
-		(at 158.115 223.52)
+		(at 59.69 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d225d1d2-0b5f-42b7-8e64-f86828f2abce")
 	)
 	(junction
-		(at 160.02 223.52)
+		(at 61.595 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d28cc8cd-c515-4d35-a26e-7ca841ee7242")
@@ -9024,7 +9024,7 @@
 		(uuid "2201a8bc-4f5f-4f4d-a500-2cc92e28c2bd")
 	)
 	(no_connect
-		(at 133.35 212.09)
+		(at 34.925 245.11)
 		(uuid "2333f796-1993-42a5-92a9-da2c11d6c390")
 	)
 	(no_connect
@@ -9124,7 +9124,7 @@
 		(uuid "414ea1c1-c6a9-461c-a731-144f50d687a4")
 	)
 	(no_connect
-		(at 133.35 214.63)
+		(at 34.925 247.65)
 		(uuid "42837122-30dc-4572-bd90-5c8c49c4787c")
 	)
 	(no_connect
@@ -9176,7 +9176,7 @@
 		(uuid "52399026-4460-4cca-b898-1274c5ee9061")
 	)
 	(no_connect
-		(at 163.83 148.59)
+		(at 162.56 233.045)
 		(uuid "52df0117-780f-45cc-ba68-a78962aaf6a3")
 	)
 	(no_connect
@@ -9192,7 +9192,7 @@
 		(uuid "58661117-a4df-4492-bf25-e37d666c90a2")
 	)
 	(no_connect
-		(at 138.43 140.97)
+		(at 137.16 225.425)
 		(uuid "5889f31e-27af-46e3-8d7c-a613f2a31167")
 	)
 	(no_connect
@@ -9320,11 +9320,11 @@
 		(uuid "77be118a-4c43-476a-ba5e-9198d4ae2c6f")
 	)
 	(no_connect
-		(at 133.35 207.01)
+		(at 34.925 240.03)
 		(uuid "79c531e8-92eb-4bc1-8bf6-701de3ecc286")
 	)
 	(no_connect
-		(at 138.43 151.13)
+		(at 137.16 235.585)
 		(uuid "79c9f1d3-2e10-4089-9dcd-902073921074")
 	)
 	(no_connect
@@ -9468,7 +9468,7 @@
 		(uuid "a4fb0dd9-3b50-4b65-9d1f-863d3c3bbbe3")
 	)
 	(no_connect
-		(at 133.35 209.55)
+		(at 34.925 242.57)
 		(uuid "a9205940-c4ba-42c9-b39a-87a00a30023f")
 	)
 	(no_connect
@@ -9616,7 +9616,7 @@
 		(uuid "d1df91fe-3f4c-435e-8d0e-3e3d3ebad30a")
 	)
 	(no_connect
-		(at 138.43 143.51)
+		(at 137.16 227.965)
 		(uuid "d20f572a-8b3d-42ef-870b-cd54847535cc")
 	)
 	(no_connect
@@ -9636,11 +9636,11 @@
 		(uuid "d537d870-2175-401e-b9b3-29c9a04d32eb")
 	)
 	(no_connect
-		(at 133.35 199.39)
+		(at 34.925 232.41)
 		(uuid "d673d493-a9d2-42d4-b406-d21eec56388f")
 	)
 	(no_connect
-		(at 163.83 143.51)
+		(at 162.56 227.965)
 		(uuid "d80d93d7-d2ae-4682-b916-1dfb7fbedc3a")
 	)
 	(no_connect
@@ -9688,11 +9688,11 @@
 		(uuid "e87bded3-1af2-47ac-a946-789e6b76e21f")
 	)
 	(no_connect
-		(at 138.43 148.59)
+		(at 137.16 233.045)
 		(uuid "ec192f65-72cc-4b17-9cba-1f23e831cbb2")
 	)
 	(no_connect
-		(at 163.83 163.83)
+		(at 162.56 248.285)
 		(uuid "ec1c333a-b751-4d82-ab8d-be3506e99f57")
 	)
 	(no_connect
@@ -9720,7 +9720,7 @@
 		(uuid "efca2cc7-0f86-46b8-8028-489989d16140")
 	)
 	(no_connect
-		(at 133.35 201.93)
+		(at 34.925 234.95)
 		(uuid "f0237bdc-e2d0-4252-9554-84344cf8bfb4")
 	)
 	(no_connect
@@ -9740,7 +9740,7 @@
 		(uuid "f4f48f10-3834-45e6-a029-5a357f0c7de0")
 	)
 	(no_connect
-		(at 163.83 146.05)
+		(at 162.56 230.505)
 		(uuid "f8dc90ab-95c8-471f-aa1a-3ef6967566c6")
 	)
 	(no_connect
@@ -9772,7 +9772,7 @@
 		(uuid "ff0ddcc9-590e-44b9-b007-039a14de4e60")
 	)
 	(no_connect
-		(at 184.15 217.17)
+		(at 85.725 250.19)
 		(uuid "ff50b205-052b-4651-a5f7-692404618f02")
 	)
 	(wire
@@ -9797,7 +9797,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 156.21) (xy 138.43 156.21)
+			(xy 124.46 240.665) (xy 137.16 240.665)
 		)
 		(stroke
 			(width 0)
@@ -9817,7 +9817,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 40.64) (xy 170.18 40.64)
+			(xy 170.18 92.075) (xy 171.45 92.075)
 		)
 		(stroke
 			(width 0)
@@ -9847,7 +9847,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 31.75) (xy 171.45 31.75)
+			(xy 170.18 83.185) (xy 172.72 83.185)
 		)
 		(stroke
 			(width 0)
@@ -9907,7 +9907,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 114.3) (xy 151.13 114.3)
+			(xy 355.6 218.44) (xy 360.68 218.44)
 		)
 		(stroke
 			(width 0)
@@ -10077,7 +10077,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 194.31) (xy 185.42 194.31)
+			(xy 85.725 227.33) (xy 86.995 227.33)
 		)
 		(stroke
 			(width 0)
@@ -10097,7 +10097,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 161.29) (xy 138.43 161.29)
+			(xy 135.89 245.745) (xy 137.16 245.745)
 		)
 		(stroke
 			(width 0)
@@ -10167,7 +10167,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 114.3) (xy 140.97 114.3)
+			(xy 349.25 218.44) (xy 350.52 218.44)
 		)
 		(stroke
 			(width 0)
@@ -10207,7 +10207,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 34.29) (xy 171.45 34.29)
+			(xy 170.18 85.725) (xy 172.72 85.725)
 		)
 		(stroke
 			(width 0)
@@ -10227,7 +10227,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 52.07) (xy 87.63 52.07)
+			(xy 90.17 103.505) (xy 88.9 103.505)
 		)
 		(stroke
 			(width 0)
@@ -10237,7 +10237,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 31.75) (xy 130.81 31.75)
+			(xy 130.81 83.185) (xy 132.08 83.185)
 		)
 		(stroke
 			(width 0)
@@ -10257,7 +10257,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 204.47) (xy 133.35 204.47)
+			(xy 33.655 237.49) (xy 34.925 237.49)
 		)
 		(stroke
 			(width 0)
@@ -10297,7 +10297,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 140.97) (xy 165.1 140.97)
+			(xy 162.56 225.425) (xy 163.83 225.425)
 		)
 		(stroke
 			(width 0)
@@ -10317,7 +10317,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 223.52) (xy 156.845 223.52)
+			(xy 55.245 256.54) (xy 58.42 256.54)
 		)
 		(stroke
 			(width 0)
@@ -10327,7 +10327,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 121.92) (xy 151.13 123.19)
+			(xy 360.68 226.06) (xy 360.68 227.33)
 		)
 		(stroke
 			(width 0)
@@ -10347,7 +10347,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 196.85) (xy 185.42 196.85)
+			(xy 85.725 229.87) (xy 86.995 229.87)
 		)
 		(stroke
 			(width 0)
@@ -10407,7 +10407,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 43.18) (xy 170.18 43.18)
+			(xy 170.18 94.615) (xy 171.45 94.615)
 		)
 		(stroke
 			(width 0)
@@ -10417,7 +10417,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 186.69) (xy 36.83 186.69)
+			(xy 104.775 23.495) (xy 106.045 23.495)
 		)
 		(stroke
 			(width 0)
@@ -10427,7 +10427,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 146.05) (xy 138.43 146.05)
+			(xy 135.89 230.505) (xy 137.16 230.505)
 		)
 		(stroke
 			(width 0)
@@ -10447,7 +10447,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 52.07) (xy 102.87 53.34)
+			(xy 104.14 103.505) (xy 104.14 104.775)
 		)
 		(stroke
 			(width 0)
@@ -10497,7 +10497,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 158.75) (xy 176.53 158.75)
+			(xy 162.56 243.205) (xy 175.26 243.205)
 		)
 		(stroke
 			(width 0)
@@ -10517,7 +10517,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 44.45) (xy 130.81 44.45)
+			(xy 130.81 95.885) (xy 132.08 95.885)
 		)
 		(stroke
 			(width 0)
@@ -10527,7 +10527,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 180.34) (xy 191.77 181.61)
+			(xy 93.345 213.36) (xy 93.345 214.63)
 		)
 		(stroke
 			(width 0)
@@ -10537,7 +10537,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 153.67) (xy 138.43 153.67)
+			(xy 135.89 238.125) (xy 137.16 238.125)
 		)
 		(stroke
 			(width 0)
@@ -10567,7 +10567,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 209.55) (xy 185.42 209.55)
+			(xy 85.725 242.57) (xy 86.995 242.57)
 		)
 		(stroke
 			(width 0)
@@ -10627,7 +10627,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 31.75) (xy 87.63 31.75)
+			(xy 90.17 83.185) (xy 88.9 83.185)
 		)
 		(stroke
 			(width 0)
@@ -10637,7 +10637,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 194.31) (xy 30.48 186.69)
+			(xy 99.695 31.115) (xy 99.695 23.495)
 		)
 		(stroke
 			(width 0)
@@ -10647,7 +10647,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 223.52) (xy 163.195 223.52)
+			(xy 61.595 256.54) (xy 64.77 256.54)
 		)
 		(stroke
 			(width 0)
@@ -10687,7 +10687,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.845 223.52) (xy 156.845 221.615)
+			(xy 58.42 256.54) (xy 58.42 254.635)
 		)
 		(stroke
 			(width 0)
@@ -10697,7 +10697,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 215.9) (xy 36.83 215.9)
+			(xy 104.775 52.705) (xy 106.045 52.705)
 		)
 		(stroke
 			(width 0)
@@ -10747,7 +10747,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 30.48) (xy 102.87 31.75)
+			(xy 104.14 81.915) (xy 104.14 83.185)
 		)
 		(stroke
 			(width 0)
@@ -10757,7 +10757,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 46.99) (xy 130.81 46.99)
+			(xy 130.81 98.425) (xy 132.08 98.425)
 		)
 		(stroke
 			(width 0)
@@ -10767,7 +10767,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 177.8) (xy 191.77 177.8)
+			(xy 80.645 210.82) (xy 93.345 210.82)
 		)
 		(stroke
 			(width 0)
@@ -10777,7 +10777,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 214.63) (xy 185.42 214.63)
+			(xy 85.725 247.65) (xy 86.995 247.65)
 		)
 		(stroke
 			(width 0)
@@ -10787,7 +10787,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 44.45) (xy 102.87 45.72)
+			(xy 104.14 95.885) (xy 104.14 97.155)
 		)
 		(stroke
 			(width 0)
@@ -10797,7 +10797,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 190.5) (xy 63.5 190.5)
+			(xy 131.445 27.305) (xy 132.715 27.305)
 		)
 		(stroke
 			(width 0)
@@ -10857,7 +10857,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 151.13) (xy 176.53 151.13)
+			(xy 162.56 235.585) (xy 175.26 235.585)
 		)
 		(stroke
 			(width 0)
@@ -10867,7 +10867,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 41.91) (xy 130.81 41.91)
+			(xy 130.81 93.345) (xy 132.08 93.345)
 		)
 		(stroke
 			(width 0)
@@ -10907,7 +10907,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 207.01) (xy 198.12 207.01)
+			(xy 85.725 240.03) (xy 99.695 240.03)
 		)
 		(stroke
 			(width 0)
@@ -10917,7 +10917,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 38.1) (xy 102.87 39.37)
+			(xy 104.14 89.535) (xy 104.14 90.805)
 		)
 		(stroke
 			(width 0)
@@ -10987,7 +10987,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 156.21) (xy 165.1 156.21)
+			(xy 162.56 240.665) (xy 163.83 240.665)
 		)
 		(stroke
 			(width 0)
@@ -11027,7 +11027,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 196.85) (xy 133.35 196.85)
+			(xy 33.655 229.87) (xy 34.925 229.87)
 		)
 		(stroke
 			(width 0)
@@ -11037,7 +11037,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 186.69) (xy 35.56 186.69)
+			(xy 99.695 23.495) (xy 104.775 23.495)
 		)
 		(stroke
 			(width 0)
@@ -11057,7 +11057,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 95.25) (xy 140.97 95.25)
+			(xy 349.25 199.39) (xy 350.52 199.39)
 		)
 		(stroke
 			(width 0)
@@ -11077,7 +11077,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 158.75) (xy 138.43 158.75)
+			(xy 135.89 243.205) (xy 137.16 243.205)
 		)
 		(stroke
 			(width 0)
@@ -11157,7 +11157,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 189.23) (xy 36.83 189.23)
+			(xy 104.775 26.035) (xy 106.045 26.035)
 		)
 		(stroke
 			(width 0)
@@ -11177,7 +11177,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 161.29) (xy 176.53 161.29)
+			(xy 162.56 245.745) (xy 175.26 245.745)
 		)
 		(stroke
 			(width 0)
@@ -11187,7 +11187,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 27.94) (xy 130.81 27.94)
+			(xy 130.81 79.375) (xy 132.08 79.375)
 		)
 		(stroke
 			(width 0)
@@ -11247,7 +11247,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 177.8) (xy 179.07 177.8)
+			(xy 74.295 210.82) (xy 80.645 210.82)
 		)
 		(stroke
 			(width 0)
@@ -11267,7 +11267,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 196.85) (xy 36.83 196.85)
+			(xy 103.505 33.655) (xy 106.045 33.655)
 		)
 		(stroke
 			(width 0)
@@ -11337,7 +11337,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 191.77) (xy 36.83 191.77)
+			(xy 104.775 28.575) (xy 106.045 28.575)
 		)
 		(stroke
 			(width 0)
@@ -11387,7 +11387,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 25.4) (xy 130.81 25.4)
+			(xy 130.81 76.835) (xy 132.08 76.835)
 		)
 		(stroke
 			(width 0)
@@ -11447,7 +11447,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 217.17) (xy 133.35 217.17)
+			(xy 33.655 250.19) (xy 34.925 250.19)
 		)
 		(stroke
 			(width 0)
@@ -11467,7 +11467,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 184.15) (xy 35.56 186.69)
+			(xy 104.775 20.955) (xy 104.775 23.495)
 		)
 		(stroke
 			(width 0)
@@ -11477,7 +11477,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 220.98) (xy 34.29 223.52)
+			(xy 103.505 57.785) (xy 103.505 60.325)
 		)
 		(stroke
 			(width 0)
@@ -11507,7 +11507,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 199.39) (xy 198.12 199.39)
+			(xy 85.725 232.41) (xy 99.695 232.41)
 		)
 		(stroke
 			(width 0)
@@ -11517,7 +11517,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 184.15) (xy 35.56 184.15)
+			(xy 106.045 20.955) (xy 104.775 20.955)
 		)
 		(stroke
 			(width 0)
@@ -11627,7 +11627,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 194.31) (xy 30.48 194.31)
+			(xy 106.045 31.115) (xy 99.695 31.115)
 		)
 		(stroke
 			(width 0)
@@ -11657,7 +11657,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 34.29) (xy 130.81 34.29)
+			(xy 130.81 85.725) (xy 132.08 85.725)
 		)
 		(stroke
 			(width 0)
@@ -11667,7 +11667,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 210.82) (xy 35.56 213.36)
+			(xy 104.775 47.625) (xy 104.775 50.165)
 		)
 		(stroke
 			(width 0)
@@ -11707,7 +11707,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 212.09) (xy 198.12 212.09)
+			(xy 85.725 245.11) (xy 99.695 245.11)
 		)
 		(stroke
 			(width 0)
@@ -11757,7 +11757,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 177.8) (xy 179.07 181.61)
+			(xy 80.645 210.82) (xy 80.645 214.63)
 		)
 		(stroke
 			(width 0)
@@ -11797,7 +11797,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 223.52) (xy 153.67 221.615)
+			(xy 55.245 256.54) (xy 55.245 254.635)
 		)
 		(stroke
 			(width 0)
@@ -11817,7 +11817,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.845 223.52) (xy 158.115 223.52)
+			(xy 58.42 256.54) (xy 59.69 256.54)
 		)
 		(stroke
 			(width 0)
@@ -11837,7 +11837,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 204.47) (xy 185.42 204.47)
+			(xy 85.725 237.49) (xy 86.995 237.49)
 		)
 		(stroke
 			(width 0)
@@ -11847,7 +11847,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 52.07) (xy 93.98 52.07)
+			(xy 104.14 103.505) (xy 95.25 103.505)
 		)
 		(stroke
 			(width 0)
@@ -11887,7 +11887,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 223.52) (xy 160.02 221.615)
+			(xy 61.595 256.54) (xy 61.595 254.635)
 		)
 		(stroke
 			(width 0)
@@ -11917,7 +11917,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 218.44) (xy 36.83 218.44)
+			(xy 104.775 55.245) (xy 106.045 55.245)
 		)
 		(stroke
 			(width 0)
@@ -11947,7 +11947,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 31.75) (xy 93.98 31.75)
+			(xy 104.14 83.185) (xy 95.25 83.185)
 		)
 		(stroke
 			(width 0)
@@ -11977,7 +11977,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 177.8) (xy 172.72 189.865)
+			(xy 74.295 210.82) (xy 74.295 222.885)
 		)
 		(stroke
 			(width 0)
@@ -12057,7 +12057,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 177.8) (xy 167.64 179.07)
+			(xy 69.215 210.82) (xy 69.215 212.09)
 		)
 		(stroke
 			(width 0)
@@ -12117,7 +12117,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 210.82) (xy 35.56 210.82)
+			(xy 103.505 47.625) (xy 104.775 47.625)
 		)
 		(stroke
 			(width 0)
@@ -12127,7 +12127,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 95.25) (xy 151.13 95.25)
+			(xy 355.6 199.39) (xy 360.68 199.39)
 		)
 		(stroke
 			(width 0)
@@ -12157,7 +12157,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 213.36) (xy 36.83 213.36)
+			(xy 104.775 50.165) (xy 106.045 50.165)
 		)
 		(stroke
 			(width 0)
@@ -12167,7 +12167,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 36.83) (xy 130.81 36.83)
+			(xy 130.81 88.265) (xy 132.08 88.265)
 		)
 		(stroke
 			(width 0)
@@ -12207,7 +12207,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 210.82) (xy 35.56 210.82)
+			(xy 106.045 47.625) (xy 104.775 47.625)
 		)
 		(stroke
 			(width 0)
@@ -12217,7 +12217,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 50.8) (xy 102.87 52.07)
+			(xy 104.14 102.235) (xy 104.14 103.505)
 		)
 		(stroke
 			(width 0)
@@ -12267,7 +12267,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.195 223.52) (xy 163.195 221.615)
+			(xy 64.77 256.54) (xy 64.77 254.635)
 		)
 		(stroke
 			(width 0)
@@ -12287,7 +12287,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 58.42) (xy 102.87 59.69)
+			(xy 104.14 109.855) (xy 104.14 111.125)
 		)
 		(stroke
 			(width 0)
@@ -12317,7 +12317,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 153.67) (xy 165.1 153.67)
+			(xy 162.56 238.125) (xy 163.83 238.125)
 		)
 		(stroke
 			(width 0)
@@ -12387,7 +12387,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 163.83) (xy 138.43 163.83)
+			(xy 135.89 248.285) (xy 137.16 248.285)
 		)
 		(stroke
 			(width 0)
@@ -12417,7 +12417,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 31.75) (xy 102.87 33.02)
+			(xy 104.14 83.185) (xy 104.14 84.455)
 		)
 		(stroke
 			(width 0)
@@ -12477,7 +12477,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 209.55) (xy 109.22 209.55)
+			(xy 131.445 52.705) (xy 132.715 52.705)
 		)
 		(stroke
 			(width 0)
@@ -12487,7 +12487,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.115 223.52) (xy 160.02 223.52)
+			(xy 59.69 256.54) (xy 61.595 256.54)
 		)
 		(stroke
 			(width 0)
@@ -12497,7 +12497,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 223.52) (xy 36.83 223.52)
+			(xy 103.505 60.325) (xy 106.045 60.325)
 		)
 		(stroke
 			(width 0)
@@ -12577,7 +12577,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 201.93) (xy 185.42 201.93)
+			(xy 85.725 234.95) (xy 86.995 234.95)
 		)
 		(stroke
 			(width 0)
@@ -12647,7 +12647,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 24.13) (xy 102.87 25.4)
+			(xy 104.14 75.565) (xy 104.14 76.835)
 		)
 		(stroke
 			(width 0)
@@ -12667,7 +12667,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 220.98) (xy 34.29 220.98)
+			(xy 106.045 57.785) (xy 103.505 57.785)
 		)
 		(stroke
 			(width 0)
@@ -12707,16 +12707,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 215.9) (xy 73.66 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcabc9cf-9d34-42e9-9e5d-97f0e8c79519")
-	)
-	(wire
-		(pts
 			(xy 207.01 77.47) (xy 209.55 77.47)
 		)
 		(stroke
@@ -12737,7 +12727,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 102.87) (xy 151.13 104.14)
+			(xy 360.68 207.01) (xy 360.68 208.28)
 		)
 		(stroke
 			(width 0)
@@ -13766,7 +13756,7 @@
 		(uuid "004c27e1-b2e7-4ec3-a589-aed53046bffe")
 	)
 	(label "CAN_A_S"
-		(at 129.54 36.83 180)
+		(at 130.81 88.265 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13796,7 +13786,7 @@
 		(uuid "06681cb1-2b01-4a36-b6b1-b641a9d37339")
 	)
 	(label "GNSS_PV"
-		(at 137.16 161.29 180)
+		(at 135.89 245.745 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13846,7 +13836,7 @@
 		(uuid "0d59a1fb-cd01-4fa7-a163-6d0f158fc9cb")
 	)
 	(label "RF_GNSS"
-		(at 179.07 181.61 0)
+		(at 80.645 214.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13856,7 +13846,7 @@
 		(uuid "0d988ce6-0c00-44ae-8109-ded087b1dd12")
 	)
 	(label "GNSS_RXD1"
-		(at 185.42 196.85 0)
+		(at 86.995 229.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13916,7 +13906,7 @@
 		(uuid "2a6d3a51-8ae1-4b1c-9efe-21ea4e3fb03a")
 	)
 	(label "GNSS_TXD2"
-		(at 185.42 201.93 0)
+		(at 86.995 234.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13946,7 +13936,7 @@
 		(uuid "2dcfdddb-09ff-44c7-93d3-89250758baed")
 	)
 	(label "GNSS_TXD1"
-		(at 185.42 194.31 0)
+		(at 86.995 227.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13986,7 +13976,7 @@
 		(uuid "3965be0d-1d75-4dee-8204-5913f92bd1c6")
 	)
 	(label "CAN_B_L"
-		(at 170.18 43.18 0)
+		(at 171.45 94.615 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13996,7 +13986,7 @@
 		(uuid "3bf96f16-3abf-4509-be0c-7c37c1b7ba0d")
 	)
 	(label "CAN_A_L"
-		(at 171.45 34.29 0)
+		(at 172.72 85.725 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14046,7 +14036,7 @@
 		(uuid "47d9ad02-6be2-4d0e-9082-5ddc51aee66c")
 	)
 	(label "CAN_A_H"
-		(at 102.87 24.13 0)
+		(at 104.14 75.565 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14106,7 +14096,7 @@
 		(uuid "4af7c5db-11e4-41b2-909e-210a97131a66")
 	)
 	(label "SCL0"
-		(at 35.56 191.77 180)
+		(at 104.775 28.575 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14146,7 +14136,7 @@
 		(uuid "542096d3-5673-4149-a1cb-dea984b23a3d")
 	)
 	(label "GNSS_RXD2"
-		(at 185.42 204.47 0)
+		(at 86.995 237.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14156,7 +14146,7 @@
 		(uuid "54db1f3b-8849-4915-9c01-529b61d2c42d")
 	)
 	(label "GNSS_NRESET_IN"
-		(at 132.08 204.47 180)
+		(at 33.655 237.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14276,7 +14266,7 @@
 		(uuid "7f3364c7-6fcb-4f84-89dc-b6a3ac53d578")
 	)
 	(label "nPWR_LED"
-		(at 139.7 114.3 180)
+		(at 349.25 218.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14286,7 +14276,7 @@
 		(uuid "80852da7-a469-4fca-8aba-86d2e0b64a4e")
 	)
 	(label "CAN_B_L"
-		(at 102.87 59.69 0)
+		(at 104.14 111.125 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14306,7 +14296,7 @@
 		(uuid "82a35f7c-d992-4f3f-8d55-ccf8f684a9a9")
 	)
 	(label "GNSS_TXD1"
-		(at 137.16 153.67 180)
+		(at 135.89 238.125 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14316,7 +14306,7 @@
 		(uuid "8508637e-9cb4-452d-855d-5026a1776c10")
 	)
 	(label "SCL0"
-		(at 35.56 218.44 180)
+		(at 104.775 55.245 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14326,7 +14316,7 @@
 		(uuid "887e9859-c4d1-4371-9c69-6493680383d0")
 	)
 	(label "GNSS_RXD2"
-		(at 137.16 158.75 180)
+		(at 135.89 243.205 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14346,7 +14336,7 @@
 		(uuid "8af9aad0-d4b2-4a85-9860-7ae5778162cf")
 	)
 	(label "PI_nLED_Activity"
-		(at 139.7 95.25 180)
+		(at 349.25 199.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14376,7 +14366,7 @@
 		(uuid "90cc0d4d-7666-4931-ac24-195bf9934c22")
 	)
 	(label "CAN_B_RXD"
-		(at 129.54 41.91 180)
+		(at 130.81 93.345 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14406,7 +14396,7 @@
 		(uuid "95f0ad03-deff-4bab-8bf1-e29c1ed335ed")
 	)
 	(label "GNSS_RXD1"
-		(at 165.1 153.67 0)
+		(at 163.83 238.125 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14426,7 +14416,7 @@
 		(uuid "9694a317-70fa-47d0-b08b-e54b9f202058")
 	)
 	(label "CAN_A_L"
-		(at 102.87 39.37 0)
+		(at 104.14 90.805 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14446,7 +14436,7 @@
 		(uuid "99f400ce-6c25-4be2-a15c-e85fc9c224b2")
 	)
 	(label "CAN_A_H"
-		(at 171.45 31.75 0)
+		(at 172.72 83.185 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14476,7 +14466,7 @@
 		(uuid "9c0c4f1c-e1dc-49cb-98ad-2f0c4b7e2280")
 	)
 	(label "GNSS_PPS"
-		(at 137.16 163.83 180)
+		(at 135.89 248.285 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14526,7 +14516,7 @@
 		(uuid "a46a1cdf-f155-43ac-b439-316c1b17d05f")
 	)
 	(label "CAN_B_S"
-		(at 129.54 46.99 180)
+		(at 130.81 98.425 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14576,7 +14566,7 @@
 		(uuid "aefd5e3a-7950-45e7-867c-e2122169b420")
 	)
 	(label "GNSS_PPS"
-		(at 185.42 214.63 0)
+		(at 86.995 247.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14616,7 +14606,7 @@
 		(uuid "baf45263-303f-4735-9963-8539295e1b6e")
 	)
 	(label "CAN_B_H"
-		(at 102.87 44.45 0)
+		(at 104.14 95.885 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14626,7 +14616,7 @@
 		(uuid "bf5b5e08-e6fa-47f4-9122-1dbcb6268986")
 	)
 	(label "GNSS_PV"
-		(at 185.42 209.55 0)
+		(at 86.995 242.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14646,7 +14636,7 @@
 		(uuid "c16a2ed5-8eb1-4273-b4db-130bfb4975b3")
 	)
 	(label "CAN_B_TXD"
-		(at 129.54 44.45 180)
+		(at 130.81 95.885 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14666,7 +14656,7 @@
 		(uuid "c959ba33-1204-4e40-9ecf-ffb01a60ac3d")
 	)
 	(label "CAN_A_TXD"
-		(at 129.54 34.29 180)
+		(at 130.81 85.725 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14716,7 +14706,7 @@
 		(uuid "d2bfa851-df45-4fd7-a0ab-99009fe096e9")
 	)
 	(label "GNSS_NRESET_IN"
-		(at 137.16 146.05 180)
+		(at 135.89 230.505 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14726,7 +14716,7 @@
 		(uuid "d3ddb471-ec4e-45af-af47-2a49ad058407")
 	)
 	(label "CAN_B_H"
-		(at 170.18 40.64 0)
+		(at 171.45 92.075 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14756,7 +14746,7 @@
 		(uuid "d756ca8f-2d71-4d79-ad59-39750b2f80ea")
 	)
 	(label "GNSS_TXD2"
-		(at 165.1 156.21 0)
+		(at 163.83 240.665 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14816,7 +14806,7 @@
 		(uuid "e1f5d300-024b-44b3-a997-3cbbb3452a4f")
 	)
 	(label "SDA0"
-		(at 35.56 215.9 180)
+		(at 104.775 52.705 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14826,7 +14816,7 @@
 		(uuid "eb6ebbc0-8e5d-4b5e-8d7a-c651a9f40d87")
 	)
 	(label "CAN_A_RXD"
-		(at 129.54 31.75 180)
+		(at 130.81 83.185 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14866,7 +14856,7 @@
 		(uuid "f2ea3ad1-4f78-45da-b155-ce3eeafc5a5a")
 	)
 	(label "SDA0"
-		(at 35.56 189.23 180)
+		(at 104.775 26.035 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14924,7 +14914,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d18172e")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR042"
 			(at 393.7 171.45 0)
 			(effects
 				(font
@@ -14972,8 +14962,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR043")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -14988,7 +14978,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d1874b1")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR041"
 			(at 327.66 171.45 0)
 			(effects
 				(font
@@ -15036,8 +15026,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR042")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -15052,7 +15042,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e15bd87")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR034"
 			(at 208.28 170.18 0)
 			(effects
 				(font
@@ -15100,8 +15090,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR035")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -15116,7 +15106,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e16bb43")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR037"
 			(at 271.78 170.18 0)
 			(effects
 				(font
@@ -15164,8 +15154,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR038")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -15173,15 +15163,15 @@
 	)
 	(symbol
 		(lib_id "CM4IO:ComputeModule4-CM4")
-		(at 220.98 95.25 0)
-		(unit 2)
+		(at 363.22 90.17 0)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e471fb9")
-		(property "Reference" "Module1"
-			(at 360.68 22.987 0)
+		(property "Reference" "Module2"
+			(at 363.22 22.7076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15189,7 +15179,7 @@
 			)
 		)
 		(property "Value" "ComputeModule4"
-			(at 360.68 25.2984 0)
+			(at 363.22 25.019 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15197,7 +15187,7 @@
 			)
 		)
 		(property "Footprint" "CM4102008:MODULE_CM4102008"
-			(at 363.22 121.92 0)
+			(at 505.46 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15206,7 +15196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 363.22 121.92 0)
+			(at 505.46 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15215,7 +15205,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15223,7 +15213,7 @@
 			)
 		)
 		(property "Field4" "Hirose"
-			(at 360.68 27.5844 0)
+			(at 363.22 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15231,7 +15221,7 @@
 			)
 		)
 		(property "Field5" "2off DF40C-100DS-0.4V"
-			(at 360.68 29.8958 0)
+			(at 363.22 29.6164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15239,7 +15229,7 @@
 			)
 		)
 		(property "Field6" "2off DF40C-100DS-0.4V"
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15248,7 +15238,7 @@
 			)
 		)
 		(property "Field7" "Hirose"
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15257,7 +15247,7 @@
 			)
 		)
 		(property "Part Description" "	100 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold"
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15266,7 +15256,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15275,7 +15265,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15284,7 +15274,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "H11615CT-ND"
-			(at 220.98 95.25 0)
+			(at 363.22 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15894,16 +15884,16 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "Module1")
-					(unit 2)
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "Module2")
+					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 199.39 90)
+		(at 99.695 232.41 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15911,8 +15901,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cc8bdad-1096-4d31-9449-2bff65fd5a39")
-		(property "Reference" "#PWR031"
-			(at 204.47 199.39 0)
+		(property "Reference" "#PWR029"
+			(at 106.045 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15921,7 +15911,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 201.93 199.3899 90)
+			(at 103.505 232.4099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15930,7 +15920,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 199.39 0)
+			(at 99.695 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15939,7 +15929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 199.39 0)
+			(at 99.695 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15948,7 +15938,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 199.39 0)
+			(at 99.695 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15960,6 +15950,12 @@
 			(uuid "ebef1d57-d465-409f-a344-f412f6a112b6")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR031")
@@ -15977,7 +15973,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "125ecb42-8e94-4de3-a090-78f89268b159")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR032"
 			(at 205.74 130.81 0)
 			(effects
 				(font
@@ -16027,8 +16023,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR030")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -16036,7 +16032,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 91.44 52.07 270)
+		(at 92.71 103.505 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16046,7 +16042,7 @@
 		(fields_autoplaced yes)
 		(uuid "132df29a-0c67-4742-9a98-07975d797f22")
 		(property "Reference" "C2"
-			(at 91.4337 45.72 90)
+			(at 92.7037 97.155 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16054,7 +16050,7 @@
 			)
 		)
 		(property "Value" "0u1"
-			(at 91.4337 48.26 90)
+			(at 92.7037 99.695 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16062,7 +16058,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 91.44 52.07 0)
+			(at 92.71 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16071,7 +16067,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 52.07 0)
+			(at 92.71 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16080,7 +16076,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 91.44 52.07 0)
+			(at 92.71 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16089,7 +16085,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 91.44 52.07 90)
+			(at 92.71 103.505 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16098,7 +16094,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 91.44 52.07 90)
+			(at 92.71 103.505 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16107,7 +16103,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "720-GA0805Y104JXABT31GCT-ND"
-			(at 91.44 52.07 90)
+			(at 92.71 103.505 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16123,7 +16119,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "C2")
 					(unit 1)
 				)
@@ -16133,7 +16129,7 @@
 	(symbol
 		(lib_name "LED_1")
 		(lib_id "Device:LED")
-		(at 151.13 118.11 90)
+		(at 360.68 222.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16142,7 +16138,7 @@
 		(fields_autoplaced yes)
 		(uuid "151708d6-143a-4fd1-a64b-7e875536baa5")
 		(property "Reference" "D2"
-			(at 154.94 118.4274 90)
+			(at 364.49 222.5674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16151,7 +16147,7 @@
 			)
 		)
 		(property "Value" "LED RED"
-			(at 154.94 120.9674 90)
+			(at 364.49 225.1074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16160,7 +16156,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 151.13 118.11 0)
+			(at 360.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16169,7 +16165,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 118.11 0)
+			(at 360.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16178,7 +16174,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 151.13 118.11 0)
+			(at 360.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16187,7 +16183,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 151.13 118.11 0)
+			(at 360.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16196,7 +16192,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 151.13 118.11 90)
+			(at 360.68 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16205,7 +16201,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 151.13 118.11 90)
+			(at 360.68 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16214,7 +16210,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "160-1427-1-ND"
-			(at 151.13 118.11 90)
+			(at 360.68 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16229,6 +16225,12 @@
 			(uuid "4fa51163-b858-4b2b-956a-25fc61dae003")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "D2")
@@ -16239,7 +16241,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 129.54 25.4 90)
+		(at 130.81 76.835 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16247,8 +16249,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "216c0a4b-11e2-4d59-bfc4-86b23e025bb0")
-		(property "Reference" "#PWR017"
-			(at 133.35 25.4 0)
+		(property "Reference" "#PWR016"
+			(at 134.62 76.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16257,7 +16259,7 @@
 			)
 		)
 		(property "Value" "+5V_CM4"
-			(at 125.73 25.3999 90)
+			(at 127 76.8349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16266,7 +16268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 25.4 0)
+			(at 130.81 76.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16275,7 +16277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 25.4 0)
+			(at 130.81 76.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16284,7 +16286,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 129.54 25.4 0)
+			(at 130.81 76.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16297,8 +16299,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR017")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -16313,7 +16315,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2826b9d8-d141-43fb-877e-ea52065d6776")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR033"
 			(at 210.82 138.43 0)
 			(effects
 				(font
@@ -16362,6 +16364,12 @@
 			(uuid "a88eb302-5955-4f9a-b53d-4e1fb60209fc")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR034")
@@ -16381,7 +16389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b74e7fa-493c-4011-ad12-c2171a8300e9")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR011"
 			(at 70.485 135.89 0)
 			(effects
 				(font
@@ -16431,8 +16439,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR013")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -16448,7 +16456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dac5305-5c50-41a9-9fe0-b0d63a8eaaf1")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR045"
 			(at 405.13 207.01 0)
 			(effects
 				(font
@@ -16498,8 +16506,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR046")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -16507,7 +16515,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.115 223.52 0)
+		(at 59.69 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16515,8 +16523,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "335c8905-af22-4d55-a819-f739daa7ba22")
-		(property "Reference" "#PWR024"
-			(at 158.115 229.87 0)
+		(property "Reference" "#PWR022"
+			(at 59.69 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16525,7 +16533,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.115 228.6 0)
+			(at 59.69 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16533,7 +16541,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.115 223.52 0)
+			(at 59.69 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16542,7 +16550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.115 223.52 0)
+			(at 59.69 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16551,7 +16559,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.115 223.52 0)
+			(at 59.69 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16564,8 +16572,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR024")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -16581,7 +16589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3971893f-95e2-4d49-97cd-99d1b09bde4f")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR035"
 			(at 208.28 234.95 0)
 			(effects
 				(font
@@ -16631,8 +16639,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR036")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -16648,7 +16656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ee305ea-75c1-4734-bb2c-3263eeb7876c")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR039"
 			(at 289.56 121.92 0)
 			(effects
 				(font
@@ -16696,6 +16704,12 @@
 			(uuid "2ae7e4fe-4630-492b-855c-4cbb501dc971")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR040")
@@ -16706,7 +16720,7 @@
 	)
 	(symbol
 		(lib_id "HEDGE2:NOVATEL OEM719")
-		(at 158.75 205.74 0)
+		(at 60.325 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16714,7 +16728,7 @@
 		(dnp yes)
 		(uuid "4bb16e6b-f7ab-45df-8a03-274ac758d6b4")
 		(property "Reference" "U1"
-			(at 158.75 186.436 0)
+			(at 60.325 219.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16722,7 +16736,7 @@
 			)
 		)
 		(property "Value" "OEM719"
-			(at 158.75 188.976 0)
+			(at 60.325 221.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16730,7 +16744,7 @@
 			)
 		)
 		(property "Footprint" "Novatel:OEM719"
-			(at 158.75 205.74 0)
+			(at 60.325 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16739,7 +16753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 205.74 0)
+			(at 60.325 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16748,7 +16762,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 205.74 0)
+			(at 60.325 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16757,7 +16771,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 158.75 205.74 0)
+			(at 60.325 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16766,7 +16780,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 158.75 205.74 0)
+			(at 60.325 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16850,6 +16864,12 @@
 			(uuid "c7f456cb-a2f5-4025-9f57-280cf783f2f0")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "U1")
@@ -16947,6 +16967,12 @@
 			(uuid "4aff30f0-5b33-430e-9eaf-6715f856322c")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R8")
@@ -17033,7 +17059,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "MH1")
 					(unit 1)
 				)
@@ -17051,7 +17077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b0e8507-e140-4ec1-ad92-bdd248192f97")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR07"
 			(at 29.845 135.89 0)
 			(effects
 				(font
@@ -17101,8 +17127,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR02")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -17110,7 +17136,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 165.1 140.97 270)
+		(at 163.83 225.425 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17118,8 +17144,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bc3dd75-fd34-4640-9ca6-b069a646183e")
-		(property "Reference" "#PWR025"
-			(at 161.29 140.97 0)
+		(property "Reference" "#PWR023"
+			(at 160.02 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17128,7 +17154,7 @@
 			)
 		)
 		(property "Value" "+5V_OEM719B"
-			(at 168.91 140.9699 90)
+			(at 167.64 225.4249 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17137,7 +17163,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 140.97 0)
+			(at 163.83 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17146,7 +17172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 140.97 0)
+			(at 163.83 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17155,7 +17181,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 165.1 140.97 0)
+			(at 163.83 225.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17168,8 +17194,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR025")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -17185,7 +17211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61be6e03-74cf-49b0-aaf1-a5162f060201")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR036"
 			(at 208.28 238.76 0)
 			(effects
 				(font
@@ -17235,8 +17261,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR037")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -17252,7 +17278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6414e673-522c-44db-a29f-ea5dd1e34e70")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR038"
 			(at 269.24 130.81 0)
 			(effects
 				(font
@@ -17302,8 +17328,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR039")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -17311,7 +17337,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 34.29 223.52 0)
+		(at 103.505 60.325 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17319,8 +17345,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68035c4e-0772-4ea5-bce8-6485ef99a9af")
-		(property "Reference" "#PWR06"
-			(at 34.29 229.87 0)
+		(property "Reference" "#PWR05"
+			(at 103.505 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17329,7 +17355,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 34.29 228.6 0)
+			(at 103.505 65.405 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17337,7 +17363,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 223.52 0)
+			(at 103.505 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17346,7 +17372,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 223.52 0)
+			(at 103.505 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17355,7 +17381,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 223.52 0)
+			(at 103.505 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17368,8 +17394,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR06")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -17377,7 +17403,7 @@
 	)
 	(symbol
 		(lib_id "SQT-110-01-L-D:SQT-110-01-L-D")
-		(at 151.13 153.67 0)
+		(at 149.86 238.125 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17386,7 +17412,7 @@
 		(fields_autoplaced yes)
 		(uuid "69666721-ee6e-4e1f-87b6-2e27ffdea5d5")
 		(property "Reference" "J1"
-			(at 151.13 133.35 0)
+			(at 149.86 217.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17394,7 +17420,7 @@
 			)
 		)
 		(property "Value" "SQT-110-01-L-D"
-			(at 151.13 135.89 0)
+			(at 149.86 220.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17402,7 +17428,7 @@
 			)
 		)
 		(property "Footprint" "SQT-110-01-L-D:SAMTEC_SQT-110-01-L-D"
-			(at 151.13 153.67 0)
+			(at 149.86 238.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17412,7 +17438,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 153.67 0)
+			(at 149.86 238.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17421,7 +17447,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 153.67 0)
+			(at 149.86 238.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17430,7 +17456,7 @@
 			)
 		)
 		(property "MANUFACTURER" "SAMTEC"
-			(at 151.13 153.67 0)
+			(at 149.86 238.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17440,7 +17466,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 151.13 153.67 0)
+			(at 149.86 238.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17449,7 +17475,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "SAM1245-10-ND"
-			(at 151.13 153.67 0)
+			(at 149.86 238.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17518,6 +17544,12 @@
 			(uuid "eabcf06f-1bd7-429c-bf18-e27a5cf2e10e")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "J1")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "J1")
@@ -17606,6 +17638,12 @@
 			(uuid "0b58ce8b-4e3c-4e76-ae25-65507ed797c9")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "JP2")
@@ -17616,7 +17654,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 102.87 27.94 0)
+		(at 104.14 79.375 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17626,7 +17664,7 @@
 		(fields_autoplaced yes)
 		(uuid "78649403-2d28-404d-8202-9bc4fc0d8e28")
 		(property "Reference" "R1"
-			(at 100.33 26.6699 0)
+			(at 101.6 78.1049 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17635,7 +17673,7 @@
 			)
 		)
 		(property "Value" "60"
-			(at 100.33 29.2099 0)
+			(at 101.6 80.6449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17644,7 +17682,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 102.87 27.94 0)
+			(at 104.14 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17653,7 +17691,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 27.94 0)
+			(at 104.14 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17662,7 +17700,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 102.87 27.94 0)
+			(at 104.14 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17671,7 +17709,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 102.87 27.94 0)
+			(at 104.14 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17680,7 +17718,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 102.87 27.94 0)
+			(at 104.14 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17689,7 +17727,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
-			(at 102.87 27.94 0)
+			(at 104.14 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17705,7 +17743,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R1")
 					(unit 1)
 				)
@@ -17722,7 +17760,7 @@
 		(dnp no)
 		(uuid "7b1ca257-076b-475e-a3d1-dec9c0d84a2a")
 		(property "Reference" "Module1"
-			(at 240.03 28.575 0)
+			(at 242.57 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17730,7 +17768,7 @@
 			)
 		)
 		(property "Value" "ComputeModule4"
-			(at 240.03 30.8864 0)
+			(at 242.57 29.6164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18437,7 +18475,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "Module1")
 					(unit 1)
 				)
@@ -18446,7 +18484,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 52.07 0)
+		(at 88.9 103.505 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18455,8 +18493,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c57705f-c5e7-4262-be52-09f113239834")
-		(property "Reference" "#PWR015"
-			(at 87.63 58.42 0)
+		(property "Reference" "#PWR014"
+			(at 88.9 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18465,7 +18503,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 57.15 0)
+			(at 88.9 108.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18473,7 +18511,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 52.07 0)
+			(at 88.9 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18482,7 +18520,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 52.07 0)
+			(at 88.9 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18491,7 +18529,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 52.07 0)
+			(at 88.9 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18504,8 +18542,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR015")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -18522,7 +18560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "820cf99c-c9af-4497-8566-aedfe91199b8")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR010"
 			(at 70.485 133.35 0)
 			(effects
 				(font
@@ -18572,8 +18610,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR012")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -18581,7 +18619,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 31.75 0)
+		(at 88.9 83.185 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18590,8 +18628,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b507a99-3600-41ac-9f56-f487f98ba132")
-		(property "Reference" "#PWR014"
-			(at 87.63 38.1 0)
+		(property "Reference" "#PWR013"
+			(at 88.9 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18600,7 +18638,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 36.83 0)
+			(at 88.9 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18608,7 +18646,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 31.75 0)
+			(at 88.9 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18617,7 +18655,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 31.75 0)
+			(at 88.9 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18626,7 +18664,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 31.75 0)
+			(at 88.9 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18639,8 +18677,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR014")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -18648,7 +18686,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 63.5 190.5 270)
+		(at 132.715 27.305 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18656,8 +18694,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ddee6c6-5f6e-45a6-af61-8edd34d44def")
-		(property "Reference" "#PWR09"
-			(at 59.69 190.5 0)
+		(property "Reference" "#PWR08"
+			(at 128.905 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18666,7 +18704,7 @@
 			)
 		)
 		(property "Value" "+5V_CM4"
-			(at 67.31 190.4999 90)
+			(at 136.525 27.3049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18675,7 +18713,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 190.5 0)
+			(at 132.715 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18684,7 +18722,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 190.5 0)
+			(at 132.715 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18693,7 +18731,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 63.5 190.5 0)
+			(at 132.715 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18705,6 +18743,12 @@
 			(uuid "52bfd09b-de1e-4970-a581-021359e5621d")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR09")
@@ -18715,7 +18759,7 @@
 	)
 	(symbol
 		(lib_id "SMA-J-P-X-RA-TH1:SMA-J-P-X-RA-TH1")
-		(at 194.31 180.34 0)
+		(at 95.885 213.36 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18724,7 +18768,7 @@
 		(dnp no)
 		(uuid "92196a8b-c973-4627-ba65-9d57af638c1c")
 		(property "Reference" "J3"
-			(at 194.691 171.45 0)
+			(at 96.266 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18732,7 +18776,7 @@
 			)
 		)
 		(property "Value" "SMA-J-P-X-RA-TH1"
-			(at 194.691 173.99 0)
+			(at 96.266 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18740,7 +18784,7 @@
 			)
 		)
 		(property "Footprint" "SMA_J_P_H_RA_TH1:SAMTEC_SMA-J-P-X-RA-TH1"
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18750,7 +18794,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18759,7 +18803,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18768,7 +18812,7 @@
 			)
 		)
 		(property "PARTREV" "K"
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18778,7 +18822,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Samtec"
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18788,7 +18832,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "9.86mm"
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18798,7 +18842,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18808,7 +18852,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "SAM8856-ND"
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18817,7 +18861,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 194.31 180.34 0)
+			(at 95.885 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18841,6 +18885,12 @@
 			(uuid "3a2ac846-cf34-4eb6-9c44-ddb1cc9b71cd")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "J3")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "J3")
@@ -18851,7 +18901,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 91.44 31.75 270)
+		(at 92.71 83.185 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18861,7 +18911,7 @@
 		(fields_autoplaced yes)
 		(uuid "9535ab95-ba8e-4b4c-b8aa-8bc2e4081ffc")
 		(property "Reference" "C1"
-			(at 91.4337 25.4 90)
+			(at 92.7037 76.835 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18869,7 +18919,7 @@
 			)
 		)
 		(property "Value" "0u1"
-			(at 91.4337 27.94 90)
+			(at 92.7037 79.375 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18877,7 +18927,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 91.44 31.75 0)
+			(at 92.71 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18886,7 +18936,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 31.75 0)
+			(at 92.71 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18895,7 +18945,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 91.44 31.75 0)
+			(at 92.71 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18904,7 +18954,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 91.44 31.75 90)
+			(at 92.71 83.185 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18913,7 +18963,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 91.44 31.75 90)
+			(at 92.71 83.185 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18922,7 +18972,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "720-GA0805Y104JXABT31GCT-ND"
-			(at 91.44 31.75 90)
+			(at 92.71 83.185 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18938,7 +18988,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "C1")
 					(unit 1)
 				)
@@ -19034,6 +19084,12 @@
 			(uuid "27c4b8c7-0e22-4857-869e-c9a89dfbac04")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "R7")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R7")
@@ -19044,15 +19100,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 30.48 186.69 90)
+		(at 99.695 23.495 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9a14d843-f5ab-4445-afc2-0a6fef7af4fd")
-		(property "Reference" "#PWR03"
-			(at 34.29 186.69 0)
+		(property "Reference" "#PWR02"
+			(at 103.505 23.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19061,7 +19117,7 @@
 			)
 		)
 		(property "Value" "+5V_MPU"
-			(at 29.21 184.15 90)
+			(at 98.425 20.955 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19069,7 +19125,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 186.69 0)
+			(at 99.695 23.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19078,7 +19134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 186.69 0)
+			(at 99.695 23.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19087,7 +19143,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 30.48 186.69 0)
+			(at 99.695 23.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19099,6 +19155,12 @@
 			(uuid "ef26eab1-3695-499e-906b-6fdcda1df2c6")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR03")
@@ -19109,7 +19171,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 212.09 90)
+		(at 99.695 245.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19117,8 +19179,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c8ae357-7c8f-4df0-b9ff-99c374277a47")
-		(property "Reference" "#PWR033"
-			(at 204.47 212.09 0)
+		(property "Reference" "#PWR031"
+			(at 106.045 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19127,7 +19189,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 201.93 212.0899 90)
+			(at 103.505 245.1099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19136,7 +19198,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 212.09 0)
+			(at 99.695 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19145,7 +19207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 212.09 0)
+			(at 99.695 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19154,7 +19216,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 212.09 0)
+			(at 99.695 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19166,6 +19228,12 @@
 			(uuid "ebef1d57-d465-409f-a344-f412f6a112b7")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR033")
@@ -19176,7 +19244,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 161.29 90)
+		(at 175.26 245.745 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19184,8 +19252,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ff9e073-38f2-4f8e-a6c7-7a999f85bc32")
-		(property "Reference" "#PWR028"
-			(at 182.88 161.29 0)
+		(property "Reference" "#PWR027"
+			(at 181.61 245.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19194,7 +19262,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 161.2899 90)
+			(at 179.07 245.7449 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19203,7 +19271,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 161.29 0)
+			(at 175.26 245.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19212,7 +19280,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 161.29 0)
+			(at 175.26 245.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19221,7 +19289,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 161.29 0)
+			(at 175.26 245.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19234,8 +19302,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR028")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -19329,7 +19397,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R10")
 					(unit 1)
 				)
@@ -19338,7 +19406,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 207.01 90)
+		(at 99.695 240.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19346,8 +19414,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a83df636-b788-41c4-8f84-23ecc85ecf71")
-		(property "Reference" "#PWR032"
-			(at 204.47 207.01 0)
+		(property "Reference" "#PWR030"
+			(at 106.045 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19356,7 +19424,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 201.93 207.0099 90)
+			(at 103.505 240.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19365,7 +19433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 207.01 0)
+			(at 99.695 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19374,7 +19442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 207.01 0)
+			(at 99.695 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19383,7 +19451,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 207.01 0)
+			(at 99.695 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19395,6 +19463,12 @@
 			(uuid "ebef1d57-d465-409f-a344-f412f6a112b8")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR032")
@@ -19405,7 +19479,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 167.64 179.07 0)
+		(at 69.215 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19413,8 +19487,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8422a6e-0d7a-453f-85b3-cba430286613")
-		(property "Reference" "#PWR029"
-			(at 167.64 185.42 0)
+		(property "Reference" "#PWR024"
+			(at 69.215 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19423,7 +19497,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 184.15 0)
+			(at 69.215 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19431,7 +19505,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 179.07 0)
+			(at 69.215 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19440,7 +19514,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 179.07 0)
+			(at 69.215 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19449,7 +19523,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.64 179.07 0)
+			(at 69.215 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19461,6 +19535,12 @@
 			(uuid "cbf352d6-0995-463d-a0a1-91b8b6f887e6")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR029")
@@ -19471,7 +19551,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 151.13 104.14 0)
+		(at 360.68 208.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19479,8 +19559,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acd2b037-85d7-42cd-b90a-cc2949ce457c")
-		(property "Reference" "#PWR022"
-			(at 151.13 110.49 0)
+		(property "Reference" "#PWR020"
+			(at 360.68 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19489,7 +19569,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 109.22 0)
+			(at 360.68 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19497,7 +19577,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 104.14 0)
+			(at 360.68 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19506,7 +19586,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 104.14 0)
+			(at 360.68 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19515,7 +19595,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 104.14 0)
+			(at 360.68 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19527,6 +19607,12 @@
 			(uuid "4b9b02f9-9a38-4aa4-b46d-c72637c93e62")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR022")
@@ -19537,7 +19623,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 143.51 95.25 90)
+		(at 353.06 199.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19545,7 +19631,7 @@
 		(dnp no)
 		(uuid "af60d4b6-be63-40ae-a04d-3ec00b0d9f55")
 		(property "Reference" "R5"
-			(at 143.51 90.678 90)
+			(at 353.06 194.818 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19553,7 +19639,7 @@
 			)
 		)
 		(property "Value" "39"
-			(at 143.51 92.71 90)
+			(at 353.06 196.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19561,7 +19647,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 143.51 95.25 0)
+			(at 353.06 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19570,7 +19656,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 95.25 0)
+			(at 353.06 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19579,7 +19665,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 143.51 95.25 0)
+			(at 353.06 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19588,7 +19674,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 143.51 95.25 90)
+			(at 353.06 199.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19597,7 +19683,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 143.51 95.25 90)
+			(at 353.06 199.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19606,7 +19692,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "P39ACT-ND"
-			(at 143.51 95.25 90)
+			(at 353.06 199.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19622,7 +19708,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R5")
 					(unit 1)
 				)
@@ -19631,7 +19717,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 102.87 48.26 0)
+		(at 104.14 99.695 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19641,7 +19727,7 @@
 		(fields_autoplaced yes)
 		(uuid "b36f694c-5e39-4f56-a65c-e21fdbd6c1bd")
 		(property "Reference" "R3"
-			(at 100.33 46.9899 0)
+			(at 101.6 98.4249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19650,7 +19736,7 @@
 			)
 		)
 		(property "Value" "60"
-			(at 100.33 49.5299 0)
+			(at 101.6 100.9649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19659,7 +19745,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 102.87 48.26 0)
+			(at 104.14 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19668,7 +19754,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 48.26 0)
+			(at 104.14 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19677,7 +19763,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 102.87 48.26 0)
+			(at 104.14 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19686,7 +19772,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 102.87 48.26 0)
+			(at 104.14 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19695,7 +19781,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 102.87 48.26 0)
+			(at 104.14 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19704,7 +19790,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
-			(at 102.87 48.26 0)
+			(at 104.14 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19720,7 +19806,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R3")
 					(unit 1)
 				)
@@ -19729,7 +19815,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 156.21 270)
+		(at 124.46 240.665 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19737,8 +19823,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4c5ef7e-759d-4251-a7ed-628e622c2c64")
-		(property "Reference" "#PWR019"
-			(at 119.38 156.21 0)
+		(property "Reference" "#PWR015"
+			(at 118.11 240.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19747,7 +19833,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 156.2099 90)
+			(at 120.65 240.6649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19756,7 +19842,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 156.21 0)
+			(at 124.46 240.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19765,7 +19851,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 156.21 0)
+			(at 124.46 240.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19774,7 +19860,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 156.21 0)
+			(at 124.46 240.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19787,8 +19873,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR019")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -19796,7 +19882,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 132.08 217.17 0)
+		(at 33.655 250.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19804,8 +19890,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b73f5931-1b4b-481e-8645-ba7506e74772")
-		(property "Reference" "#PWR021"
-			(at 132.08 223.52 0)
+		(property "Reference" "#PWR019"
+			(at 33.655 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19814,7 +19900,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 222.25 0)
+			(at 33.655 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19822,7 +19908,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 217.17 0)
+			(at 33.655 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19831,7 +19917,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 217.17 0)
+			(at 33.655 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19840,7 +19926,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 217.17 0)
+			(at 33.655 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19852,6 +19938,12 @@
 			(uuid "ebef1d57-d465-409f-a344-f412f6a112b9")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR021")
@@ -19862,7 +19954,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 109.22 209.55 270)
+		(at 132.715 52.705 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19870,8 +19962,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7c8c82f-2f05-449d-a4d8-2b942f428509")
-		(property "Reference" "#PWR016"
-			(at 105.41 209.55 0)
+		(property "Reference" "#PWR09"
+			(at 128.905 52.705 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19880,7 +19972,7 @@
 			)
 		)
 		(property "Value" "+5V_OEM719B"
-			(at 113.03 209.5499 90)
+			(at 136.525 52.7049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19889,7 +19981,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 209.55 0)
+			(at 132.715 52.705 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19898,7 +19990,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 209.55 0)
+			(at 132.715 52.705 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19907,7 +19999,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 109.22 209.55 0)
+			(at 132.715 52.705 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19920,8 +20012,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR016")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -19929,7 +20021,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 143.51 114.3 90)
+		(at 353.06 218.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19937,7 +20029,7 @@
 		(dnp no)
 		(uuid "b94fb479-320a-4219-8fa8-acb604a92a17")
 		(property "Reference" "R6"
-			(at 143.51 109.728 90)
+			(at 353.06 213.868 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19945,7 +20037,7 @@
 			)
 		)
 		(property "Value" "45"
-			(at 143.51 111.76 90)
+			(at 353.06 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19953,7 +20045,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 143.51 114.3 0)
+			(at 353.06 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19962,7 +20054,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 114.3 0)
+			(at 353.06 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19971,7 +20063,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 143.51 114.3 0)
+			(at 353.06 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19980,7 +20072,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 143.51 114.3 90)
+			(at 353.06 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19989,7 +20081,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 143.51 114.3 90)
+			(at 353.06 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19998,7 +20090,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "311-45.3CRCT-ND"
-			(at 143.51 114.3 90)
+			(at 353.06 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20013,6 +20105,12 @@
 			(uuid "2cdfc1bb-3183-401a-ad05-8510d82e65e9")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "R6")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "R6")
@@ -20024,7 +20122,7 @@
 	(symbol
 		(lib_name "LED_1")
 		(lib_id "Device:LED")
-		(at 151.13 99.06 90)
+		(at 360.68 203.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20033,7 +20131,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc5becbe-8eac-47f4-a4f3-f09fa467a5e9")
 		(property "Reference" "D1"
-			(at 154.94 99.3774 90)
+			(at 364.49 203.5174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20042,7 +20140,7 @@
 			)
 		)
 		(property "Value" "LED GREEN"
-			(at 154.94 101.9174 90)
+			(at 364.49 206.0574 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20051,7 +20149,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 151.13 99.06 0)
+			(at 360.68 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20060,7 +20158,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 99.06 0)
+			(at 360.68 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20069,7 +20167,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 151.13 99.06 0)
+			(at 360.68 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20078,7 +20176,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 151.13 99.06 0)
+			(at 360.68 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20087,7 +20185,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 151.13 99.06 90)
+			(at 360.68 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20096,7 +20194,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 151.13 99.06 90)
+			(at 360.68 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20105,7 +20203,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "160-1179-1-ND"
-			(at 151.13 99.06 90)
+			(at 360.68 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20121,7 +20219,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "D1")
 					(unit 1)
 				)
@@ -20130,7 +20228,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 129.54 27.94 90)
+		(at 130.81 79.375 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20138,8 +20236,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c022d1bd-874d-4659-8735-2dfa948402ba")
-		(property "Reference" "#PWR018"
-			(at 133.35 27.94 0)
+		(property "Reference" "#PWR017"
+			(at 134.62 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20148,7 +20246,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 125.73 27.9399 90)
+			(at 127 79.3749 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20157,7 +20255,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 27.94 0)
+			(at 130.81 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20166,7 +20264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 27.94 0)
+			(at 130.81 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20175,7 +20273,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 129.54 27.94 0)
+			(at 130.81 79.375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20188,8 +20286,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR018")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -20205,7 +20303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1ba64b6-2268-475c-8d46-50e484ac6032")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR043"
 			(at 405.13 233.68 0)
 			(effects
 				(font
@@ -20254,8 +20352,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR044")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -20339,7 +20437,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "MH3")
 					(unit 1)
 				)
@@ -20348,7 +20446,7 @@
 	)
 	(symbol
 		(lib_id "Novatel:MMBX-S50-0-18")
-		(at 170.18 177.8 0)
+		(at 71.755 210.82 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20357,7 +20455,7 @@
 		(dnp no)
 		(uuid "c54f300f-3b35-405d-b030-711f2d38f87d")
 		(property "Reference" "J2"
-			(at 170.6996 172.085 0)
+			(at 72.2746 205.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20365,7 +20463,7 @@
 			)
 		)
 		(property "Value" "MMBX-S50-0-18"
-			(at 170.6996 174.625 0)
+			(at 72.2746 207.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20373,7 +20471,7 @@
 			)
 		)
 		(property "Footprint" "Novatel:MMBX-S50-0-18"
-			(at 170.18 177.8 0)
+			(at 71.755 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20382,7 +20480,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 177.8 0)
+			(at 71.755 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20391,7 +20489,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 170.18 177.8 0)
+			(at 71.755 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20400,7 +20498,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 170.18 177.8 0)
+			(at 71.755 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20409,7 +20507,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "3628-82_MMBX-S50-0-1/111_NMCT-ND"
-			(at 170.18 177.8 0)
+			(at 71.755 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20424,6 +20522,12 @@
 			(uuid "0b298bfa-0be3-4adb-8b96-0a3448d56ca9")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "J2")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "J2")
@@ -20434,7 +20538,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 132.08 196.85 90)
+		(at 33.655 229.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20442,8 +20546,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9034712-1316-4fca-93c5-4bad5ab1f484")
-		(property "Reference" "#PWR020"
-			(at 135.89 196.85 0)
+		(property "Reference" "#PWR018"
+			(at 37.465 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20452,7 +20556,7 @@
 			)
 		)
 		(property "Value" "+5V_OEM719B"
-			(at 128.27 196.8499 90)
+			(at 29.845 229.8699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20461,7 +20565,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 196.85 0)
+			(at 33.655 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20470,7 +20574,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 196.85 0)
+			(at 33.655 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20479,7 +20583,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 132.08 196.85 0)
+			(at 33.655 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20491,6 +20595,12 @@
 			(uuid "c1ac4a69-db0d-4a07-a840-40c0c1effd66")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR020")
@@ -20501,7 +20611,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 158.75 90)
+		(at 175.26 243.205 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20509,8 +20619,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb912a9a-cff1-4cd4-90cf-3d9a45ef76f5")
-		(property "Reference" "#PWR027"
-			(at 182.88 158.75 0)
+		(property "Reference" "#PWR026"
+			(at 181.61 243.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20519,7 +20629,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 158.7499 90)
+			(at 179.07 243.2049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20528,7 +20638,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 158.75 0)
+			(at 175.26 243.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20537,7 +20647,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 158.75 0)
+			(at 175.26 243.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20546,7 +20656,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 158.75 0)
+			(at 175.26 243.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20559,8 +20669,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR027")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -20568,7 +20678,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 34.29 210.82 90)
+		(at 103.505 47.625 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20576,8 +20686,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc043971-7214-4b9e-ab17-7999d6b36856")
-		(property "Reference" "#PWR05"
-			(at 38.1 210.82 0)
+		(property "Reference" "#PWR04"
+			(at 107.315 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20586,7 +20696,7 @@
 			)
 		)
 		(property "Value" "+5V_GNSS"
-			(at 30.48 210.8199 90)
+			(at 99.695 47.6249 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20595,7 +20705,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 210.82 0)
+			(at 103.505 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20604,7 +20714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 210.82 0)
+			(at 103.505 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20613,7 +20723,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 34.29 210.82 0)
+			(at 103.505 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20626,8 +20736,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR05")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -20635,7 +20745,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 151.13 90)
+		(at 175.26 235.585 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20643,8 +20753,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5198acb-fe75-42d3-82c6-fc40f54fd287")
-		(property "Reference" "#PWR026"
-			(at 182.88 151.13 0)
+		(property "Reference" "#PWR025"
+			(at 181.61 235.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20653,7 +20763,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 151.1299 90)
+			(at 179.07 235.5849 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20662,7 +20772,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 151.13 0)
+			(at 175.26 235.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20671,7 +20781,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 151.13 0)
+			(at 175.26 235.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20680,7 +20790,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 151.13 0)
+			(at 175.26 235.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20693,8 +20803,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR026")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -20778,7 +20888,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "MH4")
 					(unit 1)
 				)
@@ -20787,7 +20897,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 102.87 35.56 0)
+		(at 104.14 86.995 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20797,7 +20907,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7120800-058a-4ae8-ac98-3ac7011a58a9")
 		(property "Reference" "R2"
-			(at 100.33 34.2899 0)
+			(at 101.6 85.7249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20806,7 +20916,7 @@
 			)
 		)
 		(property "Value" "60"
-			(at 100.33 36.8299 0)
+			(at 101.6 88.2649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20815,7 +20925,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 102.87 35.56 0)
+			(at 104.14 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20824,7 +20934,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 35.56 0)
+			(at 104.14 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20833,7 +20943,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 102.87 35.56 0)
+			(at 104.14 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20842,7 +20952,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 102.87 35.56 0)
+			(at 104.14 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20851,7 +20961,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 102.87 35.56 0)
+			(at 104.14 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20860,7 +20970,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
-			(at 102.87 35.56 0)
+			(at 104.14 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20876,7 +20986,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R2")
 					(unit 1)
 				)
@@ -20885,7 +20995,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 34.29 196.85 0)
+		(at 103.505 33.655 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20893,8 +21003,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da11fbd5-e136-4dad-9afa-c148cb8d5c37")
-		(property "Reference" "#PWR04"
-			(at 34.29 203.2 0)
+		(property "Reference" "#PWR03"
+			(at 103.505 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20903,7 +21013,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 34.29 201.93 0)
+			(at 103.505 38.735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20911,7 +21021,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 196.85 0)
+			(at 103.505 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20920,7 +21030,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 196.85 0)
+			(at 103.505 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20929,7 +21039,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 196.85 0)
+			(at 103.505 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20941,6 +21051,12 @@
 			(uuid "77b841aa-3715-4161-9ac2-ba3965339d42")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR04")
@@ -20959,7 +21075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da7465b9-42b0-4a2e-824f-974ee100a18e")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR044"
 			(at 405.13 196.85 0)
 			(effects
 				(font
@@ -21009,8 +21125,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR045")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -21027,7 +21143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0d0ee2a-c0ea-4266-b32e-8775f9fae8a0")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR01"
 			(at 22.86 54.61 0)
 			(effects
 				(font
@@ -21077,8 +21193,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR08")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -21425,7 +21541,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "H2OBC1")
 					(unit 1)
 				)
@@ -21442,7 +21558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e729894e-d827-41c7-b155-56a03b4e4a83")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR040"
 			(at 289.56 172.72 0)
 			(effects
 				(font
@@ -21490,6 +21606,12 @@
 			(uuid "124fc034-9126-464a-b3fa-deb46eaccca6")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "#PWR041")
@@ -21576,7 +21698,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "MH2")
 					(unit 1)
 				)
@@ -21925,7 +22047,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "H1OBC1")
 					(unit 1)
 				)
@@ -22012,6 +22134,12 @@
 			(uuid "a36521e9-de58-425f-8891-c74f4c72adc1")
 		)
 		(instances
+			(project "HEDGE2-OBC"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
 					(reference "JP1")
@@ -22022,7 +22150,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 102.87 55.88 0)
+		(at 104.14 107.315 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22032,7 +22160,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1b19fdd-dc5c-4907-8663-a09a9d91467b")
 		(property "Reference" "R4"
-			(at 100.33 54.6099 0)
+			(at 101.6 106.0449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22041,7 +22169,7 @@
 			)
 		)
 		(property "Value" "60"
-			(at 100.33 57.1499 0)
+			(at 101.6 108.5849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22050,7 +22178,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 102.87 55.88 0)
+			(at 104.14 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22059,7 +22187,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 55.88 0)
+			(at 104.14 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22068,7 +22196,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 102.87 55.88 0)
+			(at 104.14 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22077,7 +22205,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 102.87 55.88 0)
+			(at 104.14 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22086,7 +22214,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 102.87 55.88 0)
+			(at 104.14 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22095,7 +22223,7 @@
 			)
 		)
 		(property "DigiKey Part Number" "RMCF0805FT60R4CT-ND"
-			(at 102.87 55.88 0)
+			(at 104.14 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22111,7 +22239,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R4")
 					(unit 1)
 				)
@@ -22129,7 +22257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3ad2900-027e-4f90-8f0b-066626537cf6")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR06"
 			(at 29.845 133.35 0)
 			(effects
 				(font
@@ -22179,8 +22307,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR01")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -22188,7 +22316,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.77 181.61 0)
+		(at 93.345 214.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22196,8 +22324,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6714b45-4115-4263-b25b-1c36ccb54a07")
-		(property "Reference" "#PWR078"
-			(at 191.77 187.96 0)
+		(property "Reference" "#PWR028"
+			(at 93.345 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22206,7 +22334,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 191.77 186.69 0)
+			(at 93.345 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22214,7 +22342,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 181.61 0)
+			(at 93.345 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22223,7 +22351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 181.61 0)
+			(at 93.345 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22232,7 +22360,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 181.61 0)
+			(at 93.345 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22245,8 +22373,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR078")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -22340,7 +22468,7 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
 					(reference "R9")
 					(unit 1)
 				)
@@ -22358,7 +22486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb9ae699-4f99-4481-a2d8-ebe05777ccf9")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR012"
 			(at 78.74 54.61 0)
 			(effects
 				(font
@@ -22408,8 +22536,8 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR011")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -22417,7 +22545,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 151.13 123.19 0)
+		(at 360.68 227.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22425,8 +22553,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff466ca3-1005-4ba4-978d-e429390a1136")
-		(property "Reference" "#PWR023"
-			(at 151.13 129.54 0)
+		(property "Reference" "#PWR021"
+			(at 360.68 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22435,7 +22563,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 128.27 0)
+			(at 360.68 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22443,7 +22571,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 123.19 0)
+			(at 360.68 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22452,7 +22580,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 123.19 0)
+			(at 360.68 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22461,7 +22589,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 123.19 0)
+			(at 360.68 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22474,15 +22602,15 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(reference "#PWR023")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(sheet
-		(at 36.83 208.28)
+		(at 106.045 45.085)
 		(size 25.4 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22499,7 +22627,7 @@
 		)
 		(uuid "740c0668-bfac-47e0-b7b8-de442260ca55")
 		(property "Sheetname" "INA260_OEM719"
-			(at 36.83 207.5684 0)
+			(at 106.045 44.3734 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22509,7 +22637,7 @@
 			)
 		)
 		(property "Sheetfile" "INA260.kicad_sch"
-			(at 36.83 226.6446 0)
+			(at 106.045 63.4496 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22519,7 +22647,7 @@
 			)
 		)
 		(pin "A0" input
-			(at 36.83 220.98 180)
+			(at 106.045 57.785 180)
 			(uuid "fa59b2b5-6713-4184-a7d5-745354a6157f")
 			(effects
 				(font
@@ -22529,7 +22657,7 @@
 			)
 		)
 		(pin "A1" input
-			(at 36.83 223.52 180)
+			(at 106.045 60.325 180)
 			(uuid "83892e84-5222-4507-9a7c-226df6f46abf")
 			(effects
 				(font
@@ -22539,7 +22667,7 @@
 			)
 		)
 		(pin "LOAD" output
-			(at 62.23 215.9 0)
+			(at 131.445 52.705 0)
 			(uuid "30cf2dfc-b50f-4875-b652-d2d4bc07823c")
 			(effects
 				(font
@@ -22549,7 +22677,7 @@
 			)
 		)
 		(pin "SCL" input
-			(at 36.83 218.44 180)
+			(at 106.045 55.245 180)
 			(uuid "13c4af11-0234-48d2-b2d5-dfa589c847d6")
 			(effects
 				(font
@@ -22559,7 +22687,7 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 36.83 215.9 180)
+			(at 106.045 52.705 180)
 			(uuid "ade5d639-a39d-4466-9a00-8fa6ce853d3b")
 			(effects
 				(font
@@ -22569,7 +22697,7 @@
 			)
 		)
 		(pin "SOURCE" input
-			(at 36.83 213.36 180)
+			(at 106.045 50.165 180)
 			(uuid "b54541c8-7874-46b5-8e98-fb07631a7906")
 			(effects
 				(font
@@ -22579,7 +22707,7 @@
 			)
 		)
 		(pin "VS" input
-			(at 36.83 210.82 180)
+			(at 106.045 47.625 180)
 			(uuid "c2d513fd-a8b5-4319-a995-361c253f3924")
 			(effects
 				(font
@@ -22590,14 +22718,14 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(page "7")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 36.83 181.61)
+		(at 106.045 18.415)
 		(size 25.4 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22614,7 +22742,7 @@
 		)
 		(uuid "9fa6cc5e-a76a-4d58-8af7-47af14171882")
 		(property "Sheetname" "INA260_CM4"
-			(at 36.83 180.8984 0)
+			(at 106.045 17.7034 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22624,7 +22752,7 @@
 			)
 		)
 		(property "Sheetfile" "INA260.kicad_sch"
-			(at 36.83 199.9746 0)
+			(at 106.045 36.7796 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22634,7 +22762,7 @@
 			)
 		)
 		(pin "A0" input
-			(at 36.83 194.31 180)
+			(at 106.045 31.115 180)
 			(uuid "d2eb009c-1dda-4658-9893-f4d1b3d03651")
 			(effects
 				(font
@@ -22644,7 +22772,7 @@
 			)
 		)
 		(pin "A1" input
-			(at 36.83 196.85 180)
+			(at 106.045 33.655 180)
 			(uuid "21f99f38-954e-4580-904f-248902f64f04")
 			(effects
 				(font
@@ -22654,7 +22782,7 @@
 			)
 		)
 		(pin "LOAD" output
-			(at 62.23 190.5 0)
+			(at 131.445 27.305 0)
 			(uuid "31e9ed30-78b1-4f2c-9225-85942be1f08d")
 			(effects
 				(font
@@ -22664,7 +22792,7 @@
 			)
 		)
 		(pin "SCL" input
-			(at 36.83 191.77 180)
+			(at 106.045 28.575 180)
 			(uuid "6306aa1d-623a-4ad4-a395-24fe42df4a40")
 			(effects
 				(font
@@ -22674,7 +22802,7 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 36.83 189.23 180)
+			(at 106.045 26.035 180)
 			(uuid "393748bb-217f-4eb0-978f-fba83ea868e4")
 			(effects
 				(font
@@ -22684,7 +22812,7 @@
 			)
 		)
 		(pin "SOURCE" input
-			(at 36.83 186.69 180)
+			(at 106.045 23.495 180)
 			(uuid "52f76001-e64a-4fea-bbb6-3ea2c5f2f31f")
 			(effects
 				(font
@@ -22694,7 +22822,7 @@
 			)
 		)
 		(pin "VS" input
-			(at 36.83 184.15 180)
+			(at 106.045 20.955 180)
 			(uuid "392c996b-544c-441b-ac54-37de9084afa3")
 			(effects
 				(font
@@ -22705,14 +22833,14 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(page "11")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(page "2")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 130.81 22.86)
+		(at 132.08 74.295)
 		(size 38.1 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22729,7 +22857,7 @@
 		)
 		(uuid "d3868309-a946-47d2-bb65-3f159979e5fb")
 		(property "Sheetname" "TCAN1046AVDYYRQ1"
-			(at 130.81 22.1484 0)
+			(at 132.08 73.5834 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22739,7 +22867,7 @@
 			)
 		)
 		(property "Sheetfile" "TCAN1046V.kicad_sch"
-			(at 130.81 50.1146 0)
+			(at 132.08 101.5496 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22750,7 +22878,7 @@
 			)
 		)
 		(pin "VCC" input
-			(at 130.81 27.94 180)
+			(at 132.08 79.375 180)
 			(uuid "ea77b2dc-1a29-4110-b355-fb4832fe42ad")
 			(effects
 				(font
@@ -22760,7 +22888,7 @@
 			)
 		)
 		(pin "VIO" input
-			(at 130.81 25.4 180)
+			(at 132.08 76.835 180)
 			(uuid "49e3346a-e705-4e40-8f08-4b2f518045b2")
 			(effects
 				(font
@@ -22770,7 +22898,7 @@
 			)
 		)
 		(pin "CANH1" bidirectional
-			(at 168.91 31.75 0)
+			(at 170.18 83.185 0)
 			(uuid "7b10dd84-f1f9-458e-b6ce-dd6beb8b6dd7")
 			(effects
 				(font
@@ -22780,7 +22908,7 @@
 			)
 		)
 		(pin "CANH2" input
-			(at 168.91 40.64 0)
+			(at 170.18 92.075 0)
 			(uuid "b3aca261-8942-416a-a016-5c348c81ed3f")
 			(effects
 				(font
@@ -22790,7 +22918,7 @@
 			)
 		)
 		(pin "CANL1" bidirectional
-			(at 168.91 34.29 0)
+			(at 170.18 85.725 0)
 			(uuid "6bc8b166-3e6b-43b4-9233-57c96ff3058e")
 			(effects
 				(font
@@ -22800,7 +22928,7 @@
 			)
 		)
 		(pin "CANL2" input
-			(at 168.91 43.18 0)
+			(at 170.18 94.615 0)
 			(uuid "c65fb3e2-a90c-4a90-a9ff-e36f05e20971")
 			(effects
 				(font
@@ -22810,7 +22938,7 @@
 			)
 		)
 		(pin "RXD1" output
-			(at 130.81 31.75 180)
+			(at 132.08 83.185 180)
 			(uuid "4e4b58f1-1c95-4e76-998c-109d919e97e8")
 			(effects
 				(font
@@ -22820,7 +22948,7 @@
 			)
 		)
 		(pin "RXD2" input
-			(at 130.81 41.91 180)
+			(at 132.08 93.345 180)
 			(uuid "ffda867e-8709-49a6-b2a2-a33556391de4")
 			(effects
 				(font
@@ -22830,7 +22958,7 @@
 			)
 		)
 		(pin "STB1" input
-			(at 130.81 36.83 180)
+			(at 132.08 88.265 180)
 			(uuid "beffbe11-f846-486f-981c-5077a557eef7")
 			(effects
 				(font
@@ -22840,7 +22968,7 @@
 			)
 		)
 		(pin "STB2" input
-			(at 130.81 46.99 180)
+			(at 132.08 98.425 180)
 			(uuid "85a3a13f-84bf-46bf-8667-85627fb70f6c")
 			(effects
 				(font
@@ -22850,7 +22978,7 @@
 			)
 		)
 		(pin "TXD1" input
-			(at 130.81 34.29 180)
+			(at 132.08 85.725 180)
 			(uuid "2e290b35-acc1-42e6-a818-94d6a500540a")
 			(effects
 				(font
@@ -22860,7 +22988,7 @@
 			)
 		)
 		(pin "TXD2" input
-			(at 130.81 44.45 180)
+			(at 132.08 95.885 180)
 			(uuid "c4be1419-9ba3-4752-807c-072a5e011337")
 			(effects
 				(font
@@ -22871,75 +22999,16 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(page "9")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9"
+					(page "5")
 				)
 			)
 		)
 	)
-	(sheet
-		(at 73.66 205.74)
-		(size 34.29 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e2cad078-3ca5-46c7-a65f-c1e6fb9d60cb")
-		(property "Sheetname" "TPS543320"
-			(at 73.66 205.0284 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "TPS543320.kicad_sch"
-			(at 73.66 227.9146 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "VIN" input
-			(at 73.66 215.9 180)
-			(uuid "533adcae-b49a-474d-a793-63a45aa6abaa")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "VOUT" output
-			(at 107.95 209.55 0)
-			(uuid "4da7530a-777d-4e90-8225-1d4025fd5eb8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f"
-					(page "13")
-				)
-			)
+	(sheet_instances
+		(path "/"
+			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )

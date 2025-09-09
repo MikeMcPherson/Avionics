@@ -927,20 +927,12 @@
   },
   "sheets": [
     [
-      "ace5002f-3cbc-4a0a-869b-0e31ebd905b7",
+      "a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9",
       "Root"
     ],
     [
-      "893aef5a-59ff-410b-9a71-9930aaf04e9f",
-      "OBC"
-    ],
-    [
-      "617751c8-9e63-43a2-807c-be0203e52cd6",
-      "COMM"
-    ],
-    [
-      "662a4538-a857-4d47-9892-e46e278fb04f",
-      "EPS"
+      "9fa6cc5e-a76a-4d58-8af7-47af14171882",
+      "INA260_CM4"
     ],
     [
       "740c0668-bfac-47e0-b7b8-de442260ca55",
@@ -949,14 +941,6 @@
     [
       "d3868309-a946-47d2-bb65-3f159979e5fb",
       "TCAN1046AVDYYRQ1"
-    ],
-    [
-      "9fa6cc5e-a76a-4d58-8af7-47af14171882",
-      "INA260_CM4"
-    ],
-    [
-      "e2cad078-3ca5-46c7-a65f-c1e6fb9d60cb",
-      "TPS543320"
     ]
   ],
   "text_variables": {}

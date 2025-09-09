@@ -5,9 +5,9 @@
 	(uuid "a83d0a9d-5eb5-4ba5-8d75-993335929828")
 	(paper "USLedger")
 	(title_block
-		(title "HEDGE2 OBC")
-		(date "2025-06-27")
-		(rev "V0.8")
+		(title "HEDGE-2 OBC")
+		(date "2025-09-08")
+		(rev "V1.0")
 		(company "University of Virginia")
 		(comment 1 "Department of Mechanical and Aerospace Engineering")
 	)
@@ -1145,12 +1145,12 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "C3")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/740c0668-bfac-47e0-b7b8-de442260ca55"
+					(reference "C4")
 					(unit 1)
 				)
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "C8")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/9fa6cc5e-a76a-4d58-8af7-47af14171882"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -1166,7 +1166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42f1b412-5a71-49b4-bb2d-333da7aee73f")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR047"
 			(at 231.14 152.4 0)
 			(effects
 				(font
@@ -1215,12 +1215,12 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "#PWR066")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/740c0668-bfac-47e0-b7b8-de442260ca55"
+					(reference "#PWR049")
 					(unit 1)
 				)
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "#PWR072")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/9fa6cc5e-a76a-4d58-8af7-47af14171882"
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -1367,12 +1367,12 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "U2")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/740c0668-bfac-47e0-b7b8-de442260ca55"
+					(reference "U3")
 					(unit 1)
 				)
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "U4")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/9fa6cc5e-a76a-4d58-8af7-47af14171882"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -1388,7 +1388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "996e5773-68d8-4eac-95e1-b17a52a7ed30")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR046"
 			(at 182.88 93.98 0)
 			(effects
 				(font
@@ -1438,12 +1438,12 @@
 		)
 		(instances
 			(project "HEDGE2-OBC"
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/740c0668-bfac-47e0-b7b8-de442260ca55"
-					(reference "#PWR065")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/740c0668-bfac-47e0-b7b8-de442260ca55"
+					(reference "#PWR048")
 					(unit 1)
 				)
-				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/893aef5a-59ff-410b-9a71-9930aaf04e9f/9fa6cc5e-a76a-4d58-8af7-47af14171882"
-					(reference "#PWR071")
+				(path "/a13a6ce3-91ba-42e3-9b40-443fe6a0f2d9/9fa6cc5e-a76a-4d58-8af7-47af14171882"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
